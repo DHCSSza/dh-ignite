@@ -1,0 +1,20 @@
+---
+widget: featurette
+headless: true
+weight: 30
+title: What can you expect?
+subtitle: 
+feature:
+  - icon: chalkboard-teacher
+    icon_pack: fas
+    name: Presentations & Lightning Talks
+    description: 
+  - icon: comments
+    icon_pack: fas
+    name: Interactivity & Discussions
+    description: 
+  - icon: file-image
+    icon_pack: fas
+    name: Poster Sessions & Exhibition Booths
+    description: 
+---
