@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 30
+weight: 20
 title: About DH-IGNITE
 subtitle: 
 
