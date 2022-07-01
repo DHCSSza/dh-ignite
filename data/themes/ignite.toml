@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Ignite"
+
+[light]
+  # Primary
+  primary = "#1a2f69"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#1a2f69"
+  menu_text_active = "#d1126"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(205,207,228)"
+  home_section_even = "rgb(255, 255, 255)"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
