@@ -13,11 +13,11 @@ main:
   - name: Audience
     url: /#who
     weight: 20
-  - name: Schedule
-    url: /#schedule
-    weight: 30
   - name: Events
     url: /#event
+    weight: 30
+  - name: Schedule
+    url: /#schedule
     weight: 40
   - name: Participate
     url: /#participate
