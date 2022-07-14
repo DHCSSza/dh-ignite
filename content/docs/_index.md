@@ -18,4 +18,4 @@ To search this site press "/" on your keyboard or find the {{< icon name="search
 <br>
 <br>
 
-{{< cta cta_text="👉 What is DH-IGNITE?" cta_link="about" >}}
+ {{< cta cta_text="👉 Let's get started with what is DH-IGNITE?" cta_link="about/what" >}}

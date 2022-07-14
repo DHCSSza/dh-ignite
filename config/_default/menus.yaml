@@ -25,6 +25,6 @@ main:
   - name: Contact
     url: /#contact
     weight: 60
-  - name: Detail information
+  - name: More information
     url: docs/
     weight: 70
