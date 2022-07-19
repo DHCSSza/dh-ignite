@@ -56,7 +56,7 @@ Registrations for the [KwaZulu Natal regional event](event/kzn-region) taking pl
 {{% callout warning %}}
 Please note that there are <u>**no costs**</u> involved to participate in DH-IGNITE. Conference fees for participants who are either nominated for participation by their faculties or who are accepted through the open application system, will be sponsored by SADiLaR via the ESCALATOR programme.<br>
 
-Travel, accommodation, dinner, and other incidentals will <u>**not be covered**</u> by SADiLaR and are for participants own cost.<br>
+Travel, accommodation, dinner, and other incidentals will be <u>**for participants own cost**</u>.<br>
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}
