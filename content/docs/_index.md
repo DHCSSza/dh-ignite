@@ -6,7 +6,7 @@ toc: false
 
 :book: _Welcome to the DH-IGNITE knowledge centre_ !
 
-:bulb: We hope you will find all the information that is needed to successfully participate in your regional DH-IGNITE event here 
+:bulb: We hope you will find all the information you need to successfully participate in a DH-IGNITE event in your region in this guide.
 
 :grey_question: If you can't find the information you are looking for <u>please try a search</u>  or  <u>[contact us](/#contact)</u>.
 
