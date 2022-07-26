@@ -2,7 +2,7 @@
 title: KZN Region - 29 & 30 August 2022
 
 event: DH-IGNITE - KZN region
-event_url: https://example.org
+event_url: ../../
 
 location: Coastlands Hotel, Umhlanga
 address:
@@ -15,7 +15,7 @@ address:
 summary: |
   Invited institutions: UNIZULU, UKZN, DUT, MUT
     {style="color: #d11f26; "} 
-abstract: ''
+abstract: 'Join us for the inaugural DH-IGNITE event on 29 & 30 August 2022 in KwaZulu Natal!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -56,3 +56,10 @@ slides:
 projects:
 ---
 
+## Registration is now open!
+
+Please complete the application form at <https://forms.gle/7w9ahc2bJkivka2M7>
+
+## More information
+
+Please visit our [DH-IGNITE Knowledge Center](../../docs/) for more information about the event.
