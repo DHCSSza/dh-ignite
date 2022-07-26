@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "REGISTER: Full event in-person"
-summary: "Each of the targeted universities' Humanities and Social Science Deans are invited to nominate 5 participants who does not have to apply, but can participate based on nomination. If you have been nominated by your dean, please complete the registration form. You will be required to submit confirmation from the dean upon registration."
+title: "Register as nominated participant"
+summary: "Each of the targeted universities' Humanities and Social Science Deans are invited to nominate a limited number of participants to join the relevant regional DH-IGNITE event. If you have been nominated by your dean, please complete the registration form. You will be required to submit confirmation of nomination."
 authors: []
 tags: []
 categories: []
 date: 2022-06-27T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://forms.gle/7w9ahc2bJkivka2M7"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

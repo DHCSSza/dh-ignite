@@ -12,15 +12,11 @@ design:
     gradient_end: '#CDCFE4'
     text_color_light: true
 cta:
-  url: docs/
+  url: https://forms.gle/7w9ahc2bJkivka2M7
   label: Register Now!
   icon_pack: fas
   icon: clipboard-check
-cta_alt:
-  url: docs/
-  label: Learn more
-cta_note:
-  label: | 
+
 
 ---
 

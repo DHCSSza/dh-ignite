@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "REGISTER: Full event virtual participation"
+title: "Apply to attend online"
 summary: "We welcome virtual participation and aim to make all activities accessible to remote participants. Submit posters, give lightning talks, join the conversations."
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2022-06-27T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://forms.gle/7w9ahc2bJkivka2M7"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
