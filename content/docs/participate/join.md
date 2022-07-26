@@ -1,6 +1,6 @@
 ---
-title: For Institutions
-linktitle: For Institutions
+title: How to join
+linktitle: How to join
 type: book
 date: '2022-07-04T00:00:00+01:00'
 
@@ -8,16 +8,19 @@ date: '2022-07-04T00:00:00+01:00'
 weight: 1
 ---
 
-## Letter to deans and DVCs
+## Invitation letters
 
-Read the letter [here](../../about/../docs/about/invitation.pdf)
+- Read the letter to the deans and DVCs [here](../about/invitation.pdf)
+- Read the letter to the library directors [here](../about/invitation.pdf)
 
 
 ## Participation options
 
 ### Nominations
 
-Deans from each public university in South Africa are invited to nominate up to 5 participants to represent their university.
+**Humanities/Social sciences deans** from each public university in South Africa are invited to nominate up to 5 participants to represent their faculty at the relevant regional event.
+
+**Library directors** from public universities are invited to nominate library staff to participate at the relevant regional event.
 
 Nominated participants will be expected to:
 
@@ -34,16 +37,20 @@ Nominated participants will be expected to:
 
 ### Nominated participants
 
-- **Conference day fees**: wSponsored by SADiLaR (including lunch, tea breaks, venue, and parking)
+- **Conference day fees**: Sponsored by SADiLaR (including lunch, tea breaks, venue, and parking)
 - **Travel and accommodation**: SADiLaR will provide a small budget to aid with travel and accommodation costs for nominated participants
 - **Dinner and incidentals**: For participants' own cost or funded by faculties/departments
 - **No-show fees**: Faculties will be responsible to pay a no-show fee should nominated participants not attend the DH-IGNITE without reasonable notice and valid reasons.
+- **Application form**: <https://forms.gle/7w9ahc2bJkivka2M7>
+- **Nomination form for deans/directors**: 
+  - DH-IGNITE KZN (for UNIZULU, KZN, MUT, DUT): [Download form](../nominations.pdf)
 
 ### Participants via open application
 
 - **Conference day fees**: Sponsored by SADiLaR (including lunch, tea breaks, venue, and parking)
 - **Travel, accommodation, dinner & incidentals**: For participants' own cost or funded by faculties or departments
 - **No-show fees**: Participants will be responsible to pay a no-show fee should they not attend the DH-IGNITE without reasonable notice and valid reasons.
+- - **Application form**: <https://forms.gle/7w9ahc2bJkivka2M7>
 
 
 ## Contact

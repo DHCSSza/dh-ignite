@@ -40,11 +40,11 @@ Exhibitors will not be charged a fee to exhibit their work but will be liable fo
 ## Important dates
 
 - Exhibition invitations sent: 29 July 2022
-- Exhibition application opening: 29 July 2022 
-- Exhibition application closing: 7 August 2022
-- Applications outcomes communicated: 8 August
-- Final confirmation of exhibitors: 11 August
-- Exhibition abstracts due date:  15 August 2022
+- Exhibition application opening: 29 July 2022
+- Exhibition application closing: TBC
+- Applications outcomes communicated: TBC
+- Final confirmation of exhibitors: TBC
+- Exhibition abstracts due date:  TBC
 
 ## Additional information
 

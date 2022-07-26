@@ -20,7 +20,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
   - We will liaise directly with the faculty deans to coordinate the funding. 
   - Faculties may have to supplement the funding depending on the number of nominated participants and travel/accommodation costs.
   - Faculties will be responsible for making travel/accommodation arrangements and will be able to submit an invoice to SADiLaR for a maximum amount as per our agreement after the event.
-- **Dinner & incidentals**: For participants'/faculties' own cost
+- **Dinner & incidentals**: To be covered by participants/faculties/departments/research groups
 - **No-show fee**: Faculties will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## In-person participation via open application
@@ -30,7 +30,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
 - **Travel & accommodation**: 
   - Participants will be responsible to fund their own travel and accommodation.
   - We could provide letters of support to selected participants to assist with motivation to their faculty/department to assist with funding for travel and accommodation.
-- **Dinner & incidentals**: For participants'/faculties' own cost
+- **Dinner & incidentals**: To be covered by participants/faculties/departments/research groups
 - **No-show fee**: Participants will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## Virtual participation via open application
