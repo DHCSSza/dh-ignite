@@ -61,4 +61,3 @@ Travel, accommodation, dinner, and other incidentals will be <u>**for faculties/
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}
 
-https://forms.gle/7w9ahc2bJkivka2M7

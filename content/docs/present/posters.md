@@ -23,7 +23,8 @@ We look forward to receiving your poster!
 - The poster should be in (A3) portrait format;
 - You should indicate how aspects of digital or computational aspects are already or could possibly be part of your work, what DH or CSS activities are ongoing or planned at your institution, or what resources and/or training opportunities are available at your institution or within your community of practice;
 - Include any citations or acknowledgements if you make use of or quote them in the poster;
-- Posters will be submitted in digital format (no printing required).
+- Posters will be submitted in **digital format (no printing required)**;
+- Poster submissions should be accompanied by a **short (no more than 5 minutes) recording**.
 
 
 ## Important dates:
@@ -32,6 +33,7 @@ We look forward to receiving your poster!
 - Poster application closing: 7 August 2022
 - Applications outcomes communicated: 8 August 2022
 - Final confirmation: 11 August 2022
+- Final date for submitting posters and recordings: 24 August 2022
 
 
 Please feel free to [get in touch](../../../#contact) if you have any questions. 
