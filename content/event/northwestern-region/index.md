@@ -1,5 +1,5 @@
 ---
-title: North-western Region - 29 & 30 May 2023
+title: North-western Region - 2023 - date to be confirmed
 
 event: DH-IGNITE - North-western region
 event_url: https://example.org

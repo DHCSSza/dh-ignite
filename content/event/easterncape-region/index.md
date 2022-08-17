@@ -1,5 +1,5 @@
 ---
-title: Eastern Cape Region - 17 & 18 April 2023
+title: Eastern Cape Region - 2023 - date to be confirmed
 
 event: DH-IGNITE - Eastern Cape region
 event_url: https://example.org

@@ -50,7 +50,7 @@ design:
 ---
 
 {{% callout note %}}
-Registrations for the [KwaZulu Natal regional event](event/kzn-region) taking place on 29 & 30 August 2022, are now OPEN!
+{{< icon name="bullhorn" pack="fas" >}} **NEW DATE!!** Registrations for the [KwaZulu Natal regional event](event/kzn-region) taking place on **18 & 19 October 2022**, are now OPEN!
 {{% /callout %}}
 
 {{% callout warning %}}

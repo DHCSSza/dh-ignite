@@ -35,6 +35,4 @@ We look forward to receiving your poster!
 - Final confirmation: 11 August 2022
 - Final date for submitting posters and recordings: 24 August 2022
 
-
 Please feel free to [get in touch](../../../#contact) if you have any questions. 
-

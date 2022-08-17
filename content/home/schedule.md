@@ -20,10 +20,10 @@ design:
   css_class: fullscreen
 ---
 
-### DAY 1 - MONDAY, 29 AUGUST 2022
+### DAY 1
 
 {{< table path="day1.csv" header="true" >}}
 
-### DAY 2 - TUESDAY, 30 AUGUST 2022
+### DAY 2 
 
 {{< table path="day2.csv" header="true" >}}

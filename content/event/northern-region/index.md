@@ -1,5 +1,5 @@
 ---
-title: Northern region - 31 October - 1 November 2022
+title: Northern region - 2023 - date to be confirmed
 
 event: DH-IGNITE - Northern region
 event_url: https://example.org
@@ -19,8 +19,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-31T09:00:00Z'
-date_end: '2022-11-01T17:00:00Z'
+date: '2023-06-27T09:00:00Z'
+date_end: '2023-06-28T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
