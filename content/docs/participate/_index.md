@@ -23,7 +23,7 @@ Participation in DH-IGNITE is open to employees and postgraduate students of the
 
 ## For institutions
 
-Deans from the Humanities & Social Sciences Faculty (or equivalent) and libraries from each institution will have the opportunity to nominate a number of individuals to participate in the relevent regional event.
+Deans from the Humanities & Social Sciences Faculty (or equivalent) and library directors from each institution will have the opportunity to nominate a number of individuals to participate in the relevent regional event.
 
 For more information about expectations of nominees and institutions, please [read the guide](join).
 

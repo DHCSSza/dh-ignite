@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Apply to participate in person"
+title: "Apply to participate in person - KZN"
 summary: "Limited tickets are available to participate in person. Please complete the application form to indicate your interest and what you hope to learn and contribute. A selection panel will review applications and provide feedback on a rolling basis until all spaces have been filled."
 authors: []
 tags: []

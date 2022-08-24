@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Register as nominated participant"
+title: "Register as nominated participant - KZN"
 summary: "Each of the targeted universities' Humanities and Social Science Deans are invited to nominate a limited number of participants to join the relevant regional DH-IGNITE event. If you have been nominated by your dean, please complete the registration form. You will be required to submit confirmation of nomination."
 authors: []
 tags: []
