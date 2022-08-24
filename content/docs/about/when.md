@@ -11,7 +11,7 @@ The original plan with ESCALATOR was to reach out to all public universities in 
 
 With COVID restrictions being lifted, we are innovating to reach a broader audience in a shorter time and offer even better opportunities for networking and community building.
 
-We will host **SIX** DH-IGNITE events across the country between August 2022 and May 2023. Each event will be open to institutions based in specific regions:
+We will host **SIX** DH-IGNITE events across the country between October 2022 and June 2023. Each event will be open to institutions based in specific regions:
 
 - [Region 1: **KwaZulu Natal** - 18 & 19 October 2022](../event/kzn-region/) (MUT, DUT, UNIZULU, UKZN)
 - [Region 2: **Gauteng** - 21 & 22 November 2022 - date to be confirmed](../../event/gauteng-region) (UP, UNISA, TUT, VUT, SMU, WITS, UJ, CSIR, HSRC)

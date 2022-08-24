@@ -18,11 +18,11 @@ weight: 1
 
 ### Nominations
 
-**Humanities/Social sciences deans** from each public university in South Africa are invited to nominate up to 5 participants to represent their faculty at the relevant regional event.
+**Humanities/Social sciences deans** from each public university in South Africa are invited to nominate participants to represent their faculty at the relevant regional event.
 
 **Library directors** from public universities are invited to nominate library staff to participate at the relevant regional event.
 
-Nominated participants will be expected to:
+**Nominated participants will be expected to:**
 
 - Contribute to the programme by giving lightning talks, presenting posters, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
 - Coordinate a workshop of their choice directly before or after a DH-IGNITE event at their institution; and
