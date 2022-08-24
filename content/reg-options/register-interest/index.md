@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Apply to attend online - KZN"
-summary: "We welcome virtual participation and aim to make all activities accessible to remote participants. Submit posters, give lightning talks, join the conversations."
+title: "Register your interest to participate in another region"
+summary: "Registration/application for DH-IGNITE events in Gauteng, the Western and Eastern Cape, the Northern and North-western regions are not yet open, but you can register your interest to participate and receive more information when it becomes available."
 authors: []
 tags: []
 categories: []
-date: 2022-06-27T13:28:48+02:00
+date: 2022-08-24T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://forms.gle/7w9ahc2bJkivka2M7"
@@ -39,7 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 {{% callout note %}}
-Read more about virtual participation in our [documents](docs/participation/).
+Read more about applying to participate in our [documents](docs/participation/).
 {{% /callout %}}

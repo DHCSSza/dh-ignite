@@ -25,8 +25,8 @@ content:
 #      - section
 
   # Field to sort by, such as Date or Title
-  sort_by: 'Title'
-  sort_ascending: false
+  sort_by: 'Date'
+  sort_ascending: true
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
