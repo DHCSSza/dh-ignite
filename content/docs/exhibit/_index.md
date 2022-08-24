@@ -14,7 +14,7 @@ type: book # Do not modify.
 
 DH-IGNITE is an opportunity for individuals, research groups, and organisations to showcase their digital humanities and computational social sciences work. Do you offer products or services to researchers or institutions interested in digital innovation? Come and share your work and experience!
 
-Exhibitors can join us via invitation or application.
+Exhibitors can join via invitation or application.
 
 
 ## By invitation
@@ -23,7 +23,7 @@ The DH-IGNITE team will invite potential exhibitors to showcase their work, prod
 
 ## By application
 
-Please contact us if you have not received an invitation but would like to exhibit your work at the conference. In your email, please include the following information:
+Please [contact us](../../#contact) if you have not received an invitation but would like to exhibit your work at the conference. In your email, please include the following information:
 
 - The institution or company you are representing
 - A short description of the work you will be exhibiting 

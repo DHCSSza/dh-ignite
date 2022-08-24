@@ -1,5 +1,5 @@
 ---
-title: Western Cape Region - 20 & 21 February 2023
+title: Western Cape Region - 2023 - date to be confirmed
 
 event: DH-IGNITE - Western Cape region
 event_url: https://example.org

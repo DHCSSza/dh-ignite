@@ -29,12 +29,12 @@ We look forward to receiving your poster!
 
 ## Important dates:
 
-- Poster application opening: 29 July 2022
-- Poster application closing: 7 August 2022
-- Applications outcomes communicated: 8 August 2022
-- Final confirmation: 11 August 2022
-- Final date for submitting posters and recordings: 24 August 2022
+### DH-IGNITE KZN (18 & 19 October 2022)
 
+- Poster application opening: **29 July 2022**
+- Poster application closing: **15 September 2022**
+- Applications outcomes communicated: **23 September 2022**
+- Final confirmation: **30 September 2022**
+- Final date for submitting posters and recordings: **14 October 2022**
 
 Please feel free to [get in touch](../../../#contact) if you have any questions. 
-

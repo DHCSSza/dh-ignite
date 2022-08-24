@@ -1,5 +1,5 @@
 ---
-title: KZN Region - 29 & 30 August 2022
+title: KZN Region - 18 & 19 October 2022
 
 event: DH-IGNITE - KZN region
 event_url: ../../
@@ -15,12 +15,12 @@ address:
 summary: |
   Invited institutions: UNIZULU, UKZN, DUT, MUT
     {style="color: #d11f26; "} 
-abstract: 'Join us for the inaugural DH-IGNITE event on 29 & 30 August 2022 in KwaZulu Natal!'
+abstract: 'Join us for the inaugural DH-IGNITE event on 18 & 19 October 2022 in KwaZulu Natal!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-08-29T09:00:00Z'
-date_end: '2022-08-30T17:00:00Z'
+date: '2022-10-18T09:00:00Z'
+date_end: '2022-10-19T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

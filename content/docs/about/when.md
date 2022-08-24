@@ -11,11 +11,11 @@ The original plan with ESCALATOR was to reach out to all public universities in 
 
 With COVID restrictions being lifted, we are innovating to reach a broader audience in a shorter time and offer even better opportunities for networking and community building.
 
-We will host **SIX** DH-IGNITE events across the country between August 2022 and May 2023. Each event will be open to institutions based in specific regions:
+We will host **SIX** DH-IGNITE events across the country between October 2022 and June 2023. Each event will be open to institutions based in specific regions:
 
-- [Region 1: **KwaZulu Natal** - 29 & 30 August 2022](../event/kzn-region/) (MUT, DUT, UNIZULU, UKZN)
-- [Region 2: **Northern region** - 31 October & 1 November 2022](../../event/northern-region) (UL, UNIVEN, UMP)
-- [Region 3: **Gauteng** - 21 & 22 November 2022](../../event/gauteng-region) (UP, UNISA, TUT, VUT, SMU, WITS, UJ, CSIR, HSRC)
-- [Region 4: **Western Cape** - 20 & 21 Feb 2023](../event/westerncape-region/) (UWC, UCT, SU, CPUT)
-- [Region 5: **Eastern Cape** - 17 & 18 April 2023](../event/easterncape-region/) (WSU, RU, NMU, UFH)
-- [Region 6: **North-western region** - 29 & 30 May 2023](../event/northwestern-region/) (UFS, CUT, NWU, SPU)
+- [Region 1: **KwaZulu Natal** - 18 & 19 October 2022](../event/kzn-region/) (MUT, DUT, UNIZULU, UKZN)
+- [Region 2: **Gauteng** - 21 & 22 November 2022 - date to be confirmed](../../event/gauteng-region) (UP, UNISA, TUT, VUT, SMU, WITS, UJ, CSIR, HSRC)
+- [Region 3: **Western Cape** - 20 & 21 Feb 2023 - date to be confirmed](../event/westerncape-region/) (UWC, UCT, SU, CPUT)
+- [Region 4: **Eastern Cape** - 17 & 18 April  - date to be confirmed](../event/easterncape-region/) (WSU, RU, NMU, UFH)
+- [Region 5: **North-western region** - 29 & 30 May 2023 - date to be confirmed](../event/northwestern-region/) (UFS, CUT, NWU, SPU)
+- [Region 6: **Northern region** - 2023 - date to be confirmed](../../event/northern-region) (UL, UNIVEN, UMP)

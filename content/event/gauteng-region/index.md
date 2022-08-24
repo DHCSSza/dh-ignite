@@ -1,5 +1,5 @@
 ---
-title: Gauteng Region - 21 & 22 November 2022
+title: Gauteng Region - 2022 - date to be confirmed
 
 event: DH-IGNITE - Gauteng region
 event_url: https://example.org
