@@ -1,30 +1,106 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#   To link a homepage widget, specify the URL as a hash `#` followed by the file- name of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+# main:
+#   - - name: Home
+#     url: /
+#     weight: 10
+#   - - name: About
+#     url: /#about
+#     weight: 20
+#   - - name: Audience
+#     url: /#who
+#     weight: 20
+#   - - name: Events
+#     url: /#event
+#     weight: 30
+#   - - name: Schedule
+#     url: /#schedule
+#     weight: 40
+#   - - name: Participate
+#     url: /#participate
+#     weight: 50
+#   - - name: Contact
+#     url: /#contact
+#     weight: 60
+#   - - name: More information
+#     url: docs/
+#     weight: 70
+
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the file- name of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /
+  - name: "About"
+    url: "#about"
     weight: 10
-  - name: About
-    url: /#about
+
+
+  - name: "Audience"
+    url: "#who"
     weight: 20
-  - name: Audience
-    url: /#who
-    weight: 20
-  - name: Events
-    url: /#event
+
+
+  - name: "Events"
+    url: "#event"
     weight: 30
-  - name: Schedule
-    url: /#schedule
+
+
+  - name: "Programme"
+    url: "#schedule"
     weight: 40
-  - name: Participate
-    url: /#participate
+
+
+
+  - name: "Participate"
+    url: "#participate"
     weight: 50
-  - name: Contact
-    url: /#contact
+
+
+  - name: "Contact"
+    url: "#contact"
     weight: 60
-  - name: More information
-    url: docs/
+
+
+
+  - name: "Detailed info"
     weight: 70
+
+  - name: "General information"
+    url: "docs/"
+    weight: 10
+    parent: "Detailed info"
+
+  - name: "KwaZulu Natal Region"
+    url: "docs/kzn"
+    weight: 20
+    parent: "Detailed info"
+
+  - name: "Gauteng Region"
+    url: "docs/gauteng"
+    weight: 30
+    parent: "Detailed info"
+
+  - name: "Western Cape Region"
+    url: "docs/wc"
+    weight: 40
+    parent: "Detailed info"
+
+  - name: "Eastern Cape Region"
+    url: "docs/ec"
+    weight: 50
+    parent: "Detailed info"
+
+  - name: "North-western Region"
+    url: "docs/northwestern"
+    weight: 60
+    parent: "Detailed info"
+
+  - name: "Northern Region"
+    url: "docs/northern"
+    weight: 70
+    parent: "Detailed info"

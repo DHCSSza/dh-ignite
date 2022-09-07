@@ -1,12 +1,19 @@
 ---
-title: Poster presentations
-linktitle: Poster presentations
-type: book
-date: '2022-07-01T00:00:00+01:00'
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# Title, summary, and page position.
+linktitle: KZN - Presentation guidelines
+summary: 
+weight: 2
+
+# Page metadata.
+title: KZN - Presentation guidelines
+date: '2022-07-01T00:00:00Z'
+type: book # Do not modify.
 ---
 
+There are various ways to get involved in DH-IGNITE.
+
+## Poster presentations
+---
 
 One of the primary purposes of the DH-IGNITE Regional Events is to raise awareness of the work in and around Digital Humanities and Computational Social Sciences. We also want to ensure that participants have ample opportunity for discussion, connection, and collaboration. For this goal to be met, we would like to invite participants to submit a poster providing information regarding digital and/or computational aspects of their research or intended research. 
 
@@ -27,9 +34,7 @@ We look forward to receiving your poster!
 - Poster submissions should be accompanied by a **short (no more than 5 minutes) recording**.
 
 
-## Important dates:
-
-### DH-IGNITE KZN (18 & 19 October 2022)
+### Posters: Important dates:
 
 - Poster application opening: **29 July 2022**
 - Poster application closing: **15 September 2022**
@@ -37,4 +42,11 @@ We look forward to receiving your poster!
 - Final confirmation: **30 September 2022**
 - Final date for submitting posters and recordings: **14 October 2022**
 
-Please feel free to [get in touch](../../../#contact) if you have any questions. 
+Please feel free to [get in touch](../..contact) if you have any questions. 
+
+<br>
+
+## Lightning talks
+---
+
+Coming soon
