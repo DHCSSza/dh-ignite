@@ -2,7 +2,7 @@
 title: Northern region - 2023 - date to be confirmed
 
 event: DH-IGNITE - Northern Region
-event_url: https://example.org
+event_url: "../../docs/northern"
 
 location: 
 address:
@@ -61,3 +61,7 @@ Are you affiliated with a public university in Limpopo or Mpumalanga and interes
 [Please complete the online form](https://forms.gle/7w9ahc2bJkivka2M7) and we will send you more information when registrations for the Northern Region event open.
 
 {{< cta cta_text="Complete the online form" cta_link="/https://forms.gle/7w9ahc2bJkivka2M7" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../#contact" cta_alt_new_tab="false" >}}
+
+{{% callout note %}}
+More details will be published in the [DH-IGNITE Knowledge Centre - Northern Region](../../docs/northern)
+{{% /callout %}}

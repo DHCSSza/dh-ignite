@@ -12,6 +12,7 @@ DH-IGNITE is sponsored by [SADiLaR](https://sadilar.org) as part of the [ESCALAT
 We will make every effort to offer the DH-IGNITE events at a central location to reduce travel and accommodation cost. 
 
  ## Nominated participants (in person)
+ ---
 
 - **Conference day fees**:  Sponsored by SADiLaR
   - Included: Venue, parking, lunch, tea breaks
@@ -24,6 +25,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
 - **No-show fee**: Faculties will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## In-person participation via open application
+---
 
 - **Conference day fees**:  Sponsored by SADiLaR
   - Included: Venue, parking, lunch, tea breaks
@@ -34,6 +36,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
 - **No-show fee**: Participants will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## Virtual participation via open application
+---
 
 - **Conference day fees**:  Sponsored by SADiLaR
   - Included: Venue, parking, lunch, tea breaks
@@ -43,6 +46,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
 - **No-show fee**: Participants will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## Exhibitors 
+---
 
 - **Conference day fees, travel & accommodation, dinner & incidentals**:  Exhibitors who do not fall under the previous categories will be responsible to fund full conference participation
 - **Exhibitor's fee**: There will be no additional fees
