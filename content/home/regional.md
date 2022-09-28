@@ -1,14 +1,11 @@
 ---
 widget: blank
 headless: true
-weight: 30
+weight: 40
 title: | 
-  6 
-    {style="color:#d11f26; font-size: 10rem; "} 
-
-  Events coming to you between October 2022 and July 2023!
+  Regional events coming to you in 2022 and 2023!
     {style="font-size: 3rem; "} 
-  Join us in your region...
+  [Join us in your region...](/#event)
     {style="color:#d11f26; font-size: 3rem; "} 
 
 

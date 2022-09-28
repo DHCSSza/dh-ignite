@@ -5,8 +5,8 @@
 
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
-weight: 60 # Order that this section will appear.
-title: Draft Schedule
+weight: 70 # Order that this section will appear.
+title: Draft Programme
 subtitle: ''
 design:
   background:
