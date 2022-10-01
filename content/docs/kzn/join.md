@@ -1,6 +1,6 @@
 ---
-title: KZN - How to join
-linktitle: KZN - How to join
+title: KZN - How to sign up
+linktitle: KZN - How to sign up
 type: book
 date: '2022-07-04T00:00:00+01:00'
 
