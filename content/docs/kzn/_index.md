@@ -49,6 +49,7 @@ Learn more about
 - [presentation guidelines](present)
 - [exhibition guidelines](exhibit)
 - [marketing material](marketing)
+- [virtual & in-person participation](participate)
 - [contact details](contact)
 
 <br>
