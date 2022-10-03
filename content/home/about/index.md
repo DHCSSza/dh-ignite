@@ -1,9 +1,9 @@
 ---
 widget: hero
 headless: true
-weight: 20
+weight: 30
 title: About DH-IGNITE
-subtitle: 
+
 
 hero_media: "dh.png"
 

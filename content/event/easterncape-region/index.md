@@ -5,6 +5,7 @@ title: |
 event: DH-IGNITE - Eastern Cape region
 event_url: "../../docs/ec/"
 
+
 location: 
 address:
   street: 
