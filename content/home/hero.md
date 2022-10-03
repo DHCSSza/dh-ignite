@@ -5,6 +5,13 @@ weight: 10
 title: | 
   Community and capacity building for humanities & social sciences in South Africa
     {style="color: white; font-size: 4rem; "} 
+
+  <br>
+
+  __Registration deadline: 7 October__
+    {style="color: yellow; font-size: 2rem; "} 
+
+
 hero_media: dh-ignite.svg
 design:
   background:

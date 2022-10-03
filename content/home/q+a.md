@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 30
+weight: 20
 title: | 
 
 
@@ -20,7 +20,6 @@ title: |
 
   [Click here to sign up](https://events.zoom.us/eo/AhYX0dTgBT1cfpjTp-NFbxxqokCTJImnIk3lHqQHluXhu78wi5_b~AggLXsr32QYFjq8BlYLZ5I06Dg)
   {style="color: #d11f26; font-size: 1rem; text-align: center;"}
-
 
 
 ---
