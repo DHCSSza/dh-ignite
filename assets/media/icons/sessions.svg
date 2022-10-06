@@ -2,41 +2,34 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="94.77063mm"
-   height="91.842262mm"
-   viewBox="0 0 94.77063 91.842262"
+   width="178.32796mm"
+   height="182.97301mm"
+   viewBox="0 0 178.32796 182.97301"
    version="1.1"
-   id="svg5"
+   id="svg192"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2" />
+     id="defs189" />
   <g
      id="layer1"
-     transform="translate(-49.316945,-83.335439)">
+     transform="translate(-24.802233,-44.953318)">
     <ellipse
-       style="fill:#000000;stroke-width:0.264583"
-       id="path111"
-       cx="96.702263"
-       cy="129.25658"
-       rx="47.385315"
-       ry="45.921135" />
-    <ellipse
-       style="fill:#d11f26;fill-opacity:1;stroke-width:0.264583"
-       id="ellipse113"
-       cx="96.702263"
-       cy="129.25658"
-       rx="47.385315"
-       ry="45.921135" />
+       style="fill:#d11f26;fill-opacity:1;stroke:#d11f26;stroke-width:0.264583;stroke-opacity:1"
+       id="path248"
+       cx="113.96621"
+       cy="136.43982"
+       rx="89.031685"
+       ry="91.35421" />
     <text
        xml:space="preserve"
-       style="font-size:70.5556px;fill:#d11f26;fill-opacity:1;stroke-width:0.264583"
-       x="59.300476"
-       y="152.54582"
-       id="text1887"><tspan
-         id="tspan1885"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:Mandali;-inkscape-font-specification:Mandali;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="59.300476"
-         y="152.54582">15</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;font-family:'padmaa-Bold.1.1';-inkscape-font-specification:'padmaa-Bold.1.1';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+       x="60.092564"
+       y="170.8757"
+       id="text1825"><tspan
+         id="tspan1823"
+         style="font-size:105.833px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="60.092564"
+         y="170.8757">15</tspan></text>
   </g>
 </svg>

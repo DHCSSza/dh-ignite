@@ -8,7 +8,7 @@ feature:
   - icon: speakers
     icon_pack: custom
     name: Speakers
-    description: 
+    description: ...and counting
   - icon: sessions
     icon_pack: custom
     name: Sessions
@@ -16,5 +16,5 @@ feature:
   - icon: participants
     icon_pack: custom
     name: Participants
-    description: 
+    description: ...and counting
 ---
