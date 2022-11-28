@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Western Cape (2023)
+linktitle: Western Cape (8 - 10 March 2023)
 weight: 1
 icon: fire
 icon_pack: fas
