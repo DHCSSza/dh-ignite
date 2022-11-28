@@ -42,4 +42,6 @@ Please complete the online form if you would like to indicate your interest to p
 ## Venue
 ---
 
-To be confirmed
+- **Location:** City of Cape Town
+- **Venue:**  To be confirmed
+
