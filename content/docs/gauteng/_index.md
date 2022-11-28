@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Gauteng (21 & 22 November 2022)
+linktitle: Gauteng (2023)
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 2
 icon: fire
 icon_pack: fas
 
 # Page metadata.
-title: Gauteng (21 & 22 November 2022)
+title: Gauteng (2023)
 date: '2022-06-30T00:00:00Z'
 type: book # Do not modify.
 ---

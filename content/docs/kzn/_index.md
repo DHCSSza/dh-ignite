@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: KwaZulu Natal (18 & 19 October 2022)
+linktitle: PAST - KwaZulu Natal (18 & 19 October 2022)
 summary: 
 weight: 6
 icon: fire
 icon_pack: fas
 
 # Page metadata.
-title: KwaZulu Natal (18 & 19 October 2022)
+title: PAST - KwaZulu Natal (18 & 19 October 2022)
 date: '2022-06-30T00:00:00Z'
 type: book # Do not modify.
 ---
