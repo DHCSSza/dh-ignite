@@ -8,8 +8,8 @@ title: |
 
   <br>
 
-  __Registration deadline: 7 October__
-    {style="color: yellow; font-size: 2rem; "} 
+  __DH-IGNITE Western Cape: 8 - 10 March 2023!__
+    {style="color: yellow; font-size: 1.2rem; "} 
 
 
 hero_media: dh-ignite.svg
@@ -19,10 +19,10 @@ design:
     gradient_end: '#CDCFE4'
     text_color_light: true
 cta:
-  url: https://forms.gle/7w9ahc2bJkivka2M7
-  label: Register Now!
-  icon_pack: fas
-  icon: clipboard-check
+  url: 
+  label: 
+  icon_pack: 
+  icon: 
 
 
 ---

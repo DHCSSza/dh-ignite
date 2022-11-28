@@ -1,5 +1,5 @@
 ---
-title: Western Cape Region - 2023 - date to be confirmed
+title: "Western Cape Region: 8 - 10 March 2023"
 
 event: DH-IGNITE - Western Cape region
 event_url: "../../docs/wc"
@@ -19,8 +19,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-30T09:00:00Z'
-date_end: '2023-12-15T17:00:00Z'
+date: '2023-03-08T09:00:00Z'
+date_end: '2023-03-10T17:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).

@@ -2,13 +2,13 @@
 widget: featurette
 headless: true
 weight: 30
-title: 
+title: The inaugeral DH-IGNITE in KZN had...
 subtitle: 
 feature:
   - icon: speakers
     icon_pack: custom
     name: Speakers
-    description: ...and counting
+    description: 
   - icon: sessions
     icon_pack: custom
     name: Sessions
@@ -16,5 +16,5 @@ feature:
   - icon: participants
     icon_pack: custom
     name: Participants
-    description: ...and counting
+    description: 
 ---

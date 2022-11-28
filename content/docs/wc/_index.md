@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Western Cape (2023)
-weight: 3
+weight: 1
 icon: fire
 icon_pack: fas
 
@@ -24,7 +24,7 @@ You are welcome to apply to participate in DH-IGNITE Western Cape if you:
 ---
 
 {{< icon name="info-circle" pack="fas" >}}
-Application forms for DH-IGNITE Western Cape Region is **not yet open**. 
+Application forms for DH-IGNITE Western Cape Region **will open shortly**. 
 
 {{< icon name="file-signature" pack="fas" >}}
 Please complete the online form if you would like to indicate your interest to participate and want us to notify you when registration opens: **[Link to online form](https://forms.gle/7w9ahc2bJkivka2M7)**
@@ -34,9 +34,8 @@ Please complete the online form if you would like to indicate your interest to p
 ## Date
 ---
 
-2 days
-February 2023 (to be confirmed)
-09:00 - 17:00 daily
+8 & 9 March 2023: 09:00 - 17:00 daily <br>
+10 March 2023: 09:00 - 13:00 
 
 <br>
 

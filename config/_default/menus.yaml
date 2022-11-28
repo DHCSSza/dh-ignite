@@ -81,7 +81,7 @@ main:
 
   - name: "KwaZulu Natal Region"
     url: "docs/kzn"
-    weight: 20
+    weight: 70
     parent: "Detailed info"
 
   - name: "Gauteng Region"
@@ -91,7 +91,7 @@ main:
 
   - name: "Western Cape Region"
     url: "docs/wc"
-    weight: 40
+    weight: 20
     parent: "Detailed info"
 
   - name: "Eastern Cape Region"
@@ -106,5 +106,5 @@ main:
 
   - name: "Northern Region"
     url: "docs/northern"
-    weight: 70
+    weight: 30
     parent: "Detailed info"

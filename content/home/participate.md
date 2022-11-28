@@ -50,7 +50,7 @@ design:
 ---
 
 {{% callout note %}}
-{{< icon name="bullhorn" pack="fas" >}} **NEW DATE!!** Registrations for the [KwaZulu Natal regional event](event/kzn-region) taking place on **18 & 19 October 2022**, are now OPEN!
+{{< icon name="bullhorn" pack="fas" >}} **DH-IGNITE WESTERN CAPE DATE ANNOUNCED!** Join us from **8 - 10 March 2023**! Registrations opening shortly.
 {{% /callout %}}
 
 {{% callout warning %}}
