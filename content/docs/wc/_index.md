@@ -26,11 +26,6 @@ You are welcome to apply to participate in DH-IGNITE Western Cape if you:
 {{< icon name="info-circle" pack="fas" >}}
 Application forms for DH-IGNITE Western Cape Region **will open shortly**. 
 
-{{< icon name="file-signature" pack="fas" >}}
-Please complete the online form if you would like to indicate your interest to participate and want us to notify you when registration opens: **[Link to online form](https://forms.gle/7w9ahc2bJkivka2M7)**
-<br>
-
-
 ## Date
 ---
 

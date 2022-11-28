@@ -16,11 +16,7 @@ We will make every effort to offer the DH-IGNITE events at a central location to
 
 - **Conference day fees**:  Sponsored by SADiLaR
   - Included: Venue, parking, lunch, tea breaks
-- **Travel & accommodation**: 
-  - We will make a small budget available to humanities/social sciences faculties to assist with funding of travel and accommodation for the nominated staff and students. 
-  - We will liaise directly with the faculty deans to coordinate the funding. 
-  - Faculties may have to supplement the funding depending on the number of nominated participants and travel/accommodation costs.
-  - Faculties will be responsible for making travel/accommodation arrangements and will be able to submit an invoice to SADiLaR for a maximum amount as per our agreement after the event.
+- **Travel & accommodation**:  To be covered by participants/faculties/departments/research groups
 - **Dinner & incidentals**: To be covered by participants/faculties/departments/research groups
 - **No-show fee**: Faculties will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
@@ -42,11 +38,10 @@ We will make every effort to offer the DH-IGNITE events at a central location to
   - Included: Venue, parking, lunch, tea breaks
 - **Internet access, data**: 
   - Participants should ensure that they have adequate internet access and data to participate in a 2-day fully interactive event.
-  - We could liaise with faculties to host a physical venue at each institution where participants could join the event remotely as a group.
 - **No-show fee**: Participants will be liable to pay a no-show fee should nominated participants not attend the event without reasonable notice and valid reasons.
 
 ## Exhibitors 
 ---
 
-- **Conference day fees, travel & accommodation, dinner & incidentals**:  Exhibitors who do not fall under the previous categories will be responsible to fund full conference participation
+- **Conference day fees, travel & accommodation, dinner & incidentals**:  Exhibitors who do not fall under the previous categories will be responsible to fund full conference participation should opt for in-person exhibitions (no cost for virtual exhibitors)
 - **Exhibitor's fee**: There will be no additional fees
