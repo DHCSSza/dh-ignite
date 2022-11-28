@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Apply to attend online - KZN"
+title: "Apply to attend online - WC"
 summary: "We welcome virtual participation and aim to make all activities accessible to remote participants. Submit posters, give lightning talks, join the conversations."
 authors: []
 tags: []

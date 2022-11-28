@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Apply to participate in person - KZN"
+title: "Apply to participate in person - WC"
 summary: "Limited tickets are available to participate in person. Please complete the application form to indicate your interest and what you hope to learn and contribute. A selection panel will review applications and provide feedback on a rolling basis until all spaces have been filled."
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2022-06-27T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://forms.gle/7w9ahc2bJkivka2M7"
+external_link: "https://forms.gle/HnADVSsLPTpk324o6"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

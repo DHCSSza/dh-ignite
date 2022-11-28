@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: KwaZulu Natal (18 & 19 October 2022)
 summary: 
-weight: 1
+weight: 6
 icon: fire
 icon_pack: fas
 
