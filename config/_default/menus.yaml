@@ -35,21 +35,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: "Q&A"
-    url: "#q+a"
-    weight: 10
 
   - name: "About"
     url: "#about"
-    weight: 20
+    weight: 10
+
+  - name: "About DH-IGNITE"
+    url: "#about"
+    weight: 10
+    parent: "About"
 
   - name: "Programme"
     url: "#schedule"
-    weight: 30
+    weight: 20
+    parent: "About"
 
   - name: "Audience"
     url: "#who"
-    weight: 40
+    weight: 30
+    parent: "About"
+
+  - name: "Q&A"
+    url: "#q+a"
+    weight: 20
+
 
   - name: "Events"
     url: "#event"
@@ -63,6 +72,10 @@ main:
   - name: "Contact"
     url: "#contact"
     weight: 70
+
+  - name: "Blog"
+    url: "post"
+    weight: 80
 
 
 
