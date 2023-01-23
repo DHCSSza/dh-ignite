@@ -26,7 +26,6 @@ Even if you are participting in person, you will be required to register on the 
 - access speaker information
 - connect to and network with virtual participants and speakers
 - access the virtual exhibition space
-- view online posters
 
 We will share more information in personal communication with registered participants, speakers and exhibitors.
 

@@ -19,7 +19,7 @@ weight: 1
 
 **Nominated participants will be expected to:**
 
-- Contribute to the programme by giving lightning talks, presenting posters, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
+- Contribute to the programme by giving lightning talks, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
 - Coordinate a workshop of their choice directly before or after a DH-IGNITE event at their institution; and
 - Continue to play an active role in the community by acting as liaison for the ESCALATOR programme, participating in activiities offered via the ESCALATOR programme, providing feedback on activities and events hosted via ESCALATOR, assisting with understanding the needs of the local community in terms of digital/computational practices in humanities and social sciences, or any other relevant way.
 - **Register via the online form**: <https://forms.gle/7w9ahc2bJkivka2M7>
@@ -56,4 +56,4 @@ weight: 1
 ## Contact
 ---
 
-Please contact [escalator@talarify.co.za](mailto:escalator@talarify.co.za) for enquiries.
+Please contact [dh-ignite@talarify.co.za](mailto:dh-ignite@talarify.co.za) for enquiries.

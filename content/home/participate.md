@@ -50,7 +50,7 @@ design:
 ---
 
 {{% callout note %}}
-{{< icon name="bullhorn" pack="fas" >}} **DH-IGNITE WESTERN CAPE DATE ANNOUNCED!** Join us from **8 - 10 March 2023**! Registrations opening shortly.
+{{< icon name="bullhorn" pack="fas" >}} **DH-IGNITE WESTERN CAPE DATE ANNOUNCED!** Join us from **8 - 10 March 2023**! Applications are now open!
 {{% /callout %}}
 
 {{% callout warning %}}

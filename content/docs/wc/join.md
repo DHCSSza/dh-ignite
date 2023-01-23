@@ -8,6 +8,11 @@ date: '2022-07-04T00:00:00+01:00'
 weight: 1
 ---
 
+## Registration form
+---
+
+[Click here](https://forms.gle/zNtY1sBWpN4pWaBR8) to access the online registration form.
+
 ## Participation options
 ---
 
@@ -19,7 +24,7 @@ weight: 1
 
 **Nominated participants will be expected to:**
 
-- Contribute to the programme by giving lightning talks, presenting posters, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
+- Contribute to the programme by giving lightning talks, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
 - Coordinate a workshop of their choice directly before or after a DH-IGNITE event at their institution; and
 - Continue to play an active role in the community by acting as liaison for the ESCALATOR programme, participating in activiities offered via the ESCALATOR programme, providing feedback on activities and events hosted via ESCALATOR, assisting with understanding the needs of the local community in terms of digital/computational practices in humanities and social sciences, or any other relevant way.
 - **Register via the online form**:  Registration will open soon!
@@ -53,4 +58,4 @@ weight: 1
 ## Contact
 ---
 
-Please contact [escalator@talarify.co.za](mailto:escalator@talarify.co.za) for enquiries.
+Please contact [dh-ignite@talarify.co.za](mailto:dh-ignite@talarify.co.za) for enquiries.

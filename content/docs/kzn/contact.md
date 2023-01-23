@@ -13,7 +13,7 @@ type: book # Do not modify.
 Please contact us if you have any questions or suggestions!
 
 {{< icon name="envelope" pack="fas" >}}
-Anelda van der Walt: [escalator@talarify.co.za](mailto:escalator@talarify.co.za)
+Anelda van der Walt: [dh-ignite@talarify.co.za](mailto:dh-ignite@talarify.co.za)
 
 {{< icon name="envelope" pack="fas" >}}
 Jessica Mabaso: [Jessica.Mabaso@nwu.ac.za](mailto:Jessica.Mabaso@nwu.ac.za)
