@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 40
+weight: 50
 title: What can you expect?
 subtitle: 
 feature:
@@ -15,6 +15,6 @@ feature:
     description: 
   - icon: file-image
     icon_pack: fas
-    name: Poster Sessions & Exhibition Booths
+    name: Panel Sessions & Exhibition Booths
     description: 
 ---

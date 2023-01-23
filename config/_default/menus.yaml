@@ -35,30 +35,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: "About"
-    url: "#about"
-    weight: 10
-
-
   - name: "Q&A"
     url: "#q+a"
+    weight: 10
+
+  - name: "About"
+    url: "#about"
     weight: 20
-
-  - name: "Audience"
-    url: "#who"
-    weight: 30
-
-
-  - name: "Events"
-    url: "#event"
-    weight: 40
-
 
   - name: "Programme"
     url: "#schedule"
+    weight: 30
+
+  - name: "Audience"
+    url: "#who"
+    weight: 40
+
+  - name: "Events"
+    url: "#event"
     weight: 50
-
-
 
   - name: "Participate"
     url: "#participate"
