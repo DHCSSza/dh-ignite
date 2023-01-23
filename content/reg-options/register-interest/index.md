@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Register your interest to participate in another region"
+title: "Not based in the Western Cape, but interested to know when DH-IGNITE is coming to you?"
 summary: "Registration/application for DH-IGNITE events in Gauteng, Eastern Cape, the Northern and North-western regions are not yet open, but you can register your interest to participate and receive more information when it becomes available."
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2022-08-24T13:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://forms.gle/HnADVSsLPTpk324o6"
+external_link: "https://forms.gle/zNtY1sBWpN4pWaBR8"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

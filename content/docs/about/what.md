@@ -12,7 +12,7 @@ weight: 1
 
 DH-IGNITE is a _**2-day hybrid event**_ targeted at those interested in _**digital and computational methods and practices in humanities and social sciences**_.
 
-Throughout the two days participants will learn about resources and opportunities related to digital humanities and computational social sciences through **presentations**, **discussions**, **lightning talks**, **interactive sessions**, **poster presentations**, and more.
+Throughout the two days participants will learn about resources and opportunities related to digital humanities and computational social sciences through **presentations**, **discussions**, **lightning talks**, **interactive sessions** and more.
 
 ## Aims
 

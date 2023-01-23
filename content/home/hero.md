@@ -3,20 +3,14 @@ widget: hero
 headless: true
 weight: 10
 title: | 
-  Digital and computational research in humanities & social sciences
-    {style="color: white; font-size: 4rem; "} 
-
-    _A proudly South African regional event_
-    {style="color: lightgrey; font-size: 1.5rem; "} 
-
-  __DH-IGNITE Western Cape__
-    {style="color: #D09012; font-size: 1.5rem; "} 
+  Exploring digital and computational research in humanities & social sciences
+    {style="color: white; font-size: 3.5rem; "} 
   
-  __{{< icon name="calendar-alt" pack="fas" >}} 8 - 10 March 2023__
-    {style="color: #D09012; font-size: 1.2rem; "} 
+  __8 - 10 March 2023__
+    {style="color: #D09012; font-size: 1.7rem; "} 
 
-  __{{< icon name="map-marker-alt" pack="fas" >}} Lord Charles Hotel, Somerset West__
-    {style="color: #D09012; font-size: 1.2rem; "} 
+  __Lord Charles Hotel, Somerset West__
+    {style="color: #D09012; font-size: 1.7rem; "} 
 
 
 hero_media: dh-ignite.svg
