@@ -4,7 +4,7 @@ headless: true
 weight: 10
 title: | 
   Exploring digital and computational research in humanities & social sciences
-    {style="color: white; font-size: 3.5rem; "} 
+    {style="color: white; font-size: 2.8rem; "} 
   
   __8 - 10 March 2023__
     {style="color: #D09012; font-size: 1.7rem; "} 
