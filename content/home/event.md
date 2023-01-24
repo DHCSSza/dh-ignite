@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'Upcoming DH-IGNITE events'
+title: 'Where is DH-IGNITE happening next?'
 subtitle:
 
 content:

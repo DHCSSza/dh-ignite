@@ -31,12 +31,17 @@ A Lightning talk is a short (no longer than 5 minutes) presentation covering onl
 
 Guidelines are available at <https://docs.google.com/document/d/1Mtp7kC1flpJ4mBcPP7sJmuwH8rQ0UG3U8MU1nVKiZCM/edit?usp=sharing>.
 
-### Lightning talks: Important dates:
+### Lightning talks: Important dates
 
-- Application opening: TBC
-- Application closing: TBC
-- Applications outcomes communicated: TBC
-- Final confirmation: TBC
-- Final date for submitting slides (and recordings in case of virtual presentation): TBC
+<br>
 
-Please feel free to [get in touch](../..contact) if you have any questions. 
+| Action             | Date                |
+|--------------------|---------------------:|
+|Application opening | **24 January 2023** |
+|Application closing | **3 February 2023** |
+|Applications outcomes communicated | **10 February 2023** |
+|Final confirmation  | **17 February 2023** |
+|Final date for submitting slides (and recordings in case of virtual presentation) | **3 March 2023** |
+
+
+Please feel free to [get in touch](../../../#contact) if you have any questions. 

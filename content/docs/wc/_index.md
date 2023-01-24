@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
 linktitle: Western Cape (8 - 10 March 2023)
-weight: 1
+weight: 2
 icon: fire
 icon_pack: fas
 
 # Page metadata.
 title: Western Cape (2023)
-date: '2022-06-30T00:00:00Z'
+date: '2023-01-24T00:00:00Z'
 type: book # Do not modify.
 ---
 
@@ -20,11 +20,11 @@ You are welcome to apply to participate in DH-IGNITE Western Cape if you:
 
 <br>
 
-## Registration form
+## Registration/Application form
 ---
 
 {{< icon name="info-circle" pack="fas" >}}
-Application forms for DH-IGNITE Western Cape Region **will open shortly**. 
+[Click here](../../#participate) for registration/application information
 
 ## Date
 ---
@@ -37,6 +37,7 @@ Application forms for DH-IGNITE Western Cape Region **will open shortly**.
 ## Venue
 ---
 
-- **Location:** City of Cape Town
-- **Venue:**  To be confirmed
+- **Venue:**  [Lord Charles Hotel](https://lordcharleshotel.com/)
+- **Address:** Cnr Main Rd (M9) & Broadway Boulevard (R44), Somerset West
+
 
