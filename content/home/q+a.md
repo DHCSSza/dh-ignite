@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: 
 headless: true
 weight: 30
 
@@ -22,7 +22,7 @@ title: |
 
 ---
 
-<a href="https://events.zoom.us/ev/AgkSFyh7yHTa_m64WuYQzJT6FBgqL8scT6JJflgMgveBIIuqtZLR~AggLXsr32QYFjq8BlYLZ5I06Dg?lmt=1674212955000"><img 
+<a href="https://events.zoom.us/ev/AgkSFyh7yHTa_m64WuYQzJT6FBgqL8scT6JJflgMgveBIIuqtZLR~AggLXsr32QYFjq8BlYLZ5I06Dg?lmt=1674210300000"><img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;

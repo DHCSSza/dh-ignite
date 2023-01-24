@@ -27,5 +27,6 @@ cta:
 
 
 ---
+<br>
 
-
+[![applications are open button](learn-more.png)](http://localhost:1313/#participate)

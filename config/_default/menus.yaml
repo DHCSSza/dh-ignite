@@ -55,14 +55,14 @@ main:
     weight: 30
     parent: "About"
 
-  - name: "Q&A"
-    url: "#q+a"
-    weight: 20
-
-
   - name: "Events"
     url: "#event"
-    weight: 50
+    weight: 40
+    parent: "About"
+
+  - name: "Join a Q&A"
+    url: "#q+a"
+    weight: 20
 
   - name: "Participate"
     url: "#participate"
@@ -79,40 +79,40 @@ main:
 
 
 
-  - name: "Detailed info"
+  - name: "Important information"
     weight: 80
 
   - name: "General information"
     url: "docs/"
     weight: 10
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "KwaZulu Natal Region"
     url: "docs/kzn"
     weight: 70
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "Gauteng Region"
     url: "docs/gauteng"
     weight: 30
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "Western Cape Region"
     url: "docs/wc"
     weight: 20
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "Eastern Cape Region"
     url: "docs/ec"
     weight: 50
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "North-western Region"
     url: "docs/northwestern"
     weight: 60
-    parent: "Detailed info"
+    parent: "Important information"
 
   - name: "Northern Region"
     url: "docs/northern"
     weight: 30
-    parent: "Detailed info"
+    parent: "Important information"

@@ -62,7 +62,7 @@ The DH-IGNITE team will invite potential exhibitors to showcase their work, prod
 
 ### By application
 
-Please [contact us](../..contact) if you have not received an invitation but would like to exhibit your work at the conference. In your email, please include the following information:
+Please [contact us](../../../#contact) if you have not received an invitation but would like to exhibit your work at the conference. In your email, please include the following information:
 
 - The institution or company you are representing
 - A short description of the work you will be exhibiting 

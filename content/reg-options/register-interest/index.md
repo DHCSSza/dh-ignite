@@ -6,7 +6,7 @@ summary: "Registration/application for DH-IGNITE events in Gauteng, Eastern Cape
 authors: []
 tags: []
 categories: []
-date: 2023-01-23T13:28:48+02:00
+date: 2023-01-23T04:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://forms.gle/zNtY1sBWpN4pWaBR8"

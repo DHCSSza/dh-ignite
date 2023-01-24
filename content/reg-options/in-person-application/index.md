@@ -6,7 +6,7 @@ summary: "Limited tickets are available to participate in person. Please complet
 authors: []
 tags: []
 categories: []
-date: 2023-01-23T13:28:48+02:00
+date: 2023-01-23T02:28:48+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://forms.gle/zNtY1sBWpN4pWaBR8"
