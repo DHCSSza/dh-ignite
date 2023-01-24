@@ -27,6 +27,14 @@ cta:
 
 
 ---
+
 <br>
 
-[![applications are open button](learn-more.png)](#participate)
+<a href="#participate"><img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 50%;"
+    src="learn-more.png" 
+    alt="register-now button">
+</img></a>

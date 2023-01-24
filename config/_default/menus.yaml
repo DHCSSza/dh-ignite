@@ -36,9 +36,13 @@
 
 main:
 
+  - name: "Home"
+    url: "/"
+    weight: 10
+
   - name: "About"
     url: "#about"
-    weight: 10
+    weight: 20
 
   - name: "About DH-IGNITE"
     url: "#about"
@@ -62,20 +66,20 @@ main:
 
   - name: "Join a Q&A"
     url: "#q+a"
-    weight: 20
+    weight: 30
 
   - name: "Participate"
     url: "#participate"
-    weight: 60
+    weight: 40
 
 
   - name: "Contact"
     url: "#contact"
-    weight: 70
+    weight: 50
 
   - name: "Blog"
     url: "post"
-    weight: 80
+    weight: 60
 
 
 
