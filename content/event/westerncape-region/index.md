@@ -60,7 +60,7 @@ Are you affiliated with a public university in the Western Cape and interested t
 
 ## Registration is now open!
 
-Please complete the application form at https://forms.gle/zNtY1sBWpN4pWaBR8.
+Please access the online application form by **[clicking here](https://forms.gle/zNtY1sBWpN4pWaBR8)**.
 
 ## More information
 

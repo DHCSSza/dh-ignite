@@ -12,7 +12,7 @@ design:
 
 ---
 
-Please click on __[Day 1](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSuD-uS2nH5fe1B9-kcQt4EJ4EXQZpjdhNHwHjHkuxFgixlb9nuqxkTZvhzUfOrmKNczs6MF4M_AfFa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false#)__, __[Day 2](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSuD-uS2nH5fe1B9-kcQt4EJ4EXQZpjdhNHwHjHkuxFgixlb9nuqxkTZvhzUfOrmKNczs6MF4M_AfFa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false#)__, or __[Day 3](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSuD-uS2nH5fe1B9-kcQt4EJ4EXQZpjdhNHwHjHkuxFgixlb9nuqxkTZvhzUfOrmKNczs6MF4M_AfFa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false#)__ to view each day's schedule in a separate window.
+You can also view the full programme in a separate window by __[CLICKING HERE](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSuD-uS2nH5fe1B9-kcQt4EJ4EXQZpjdhNHwHjHkuxFgixlb9nuqxkTZvhzUfOrmKNczs6MF4M_AfFa/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false#)__.
 
 _The programme is continuously updated and enhanced. Please [contact us](#contact) if you have questions about sessions or topics._
 
