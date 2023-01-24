@@ -27,14 +27,14 @@ weight: 1
 - Contribute to the programme by giving lightning talks, assisting the organising team at the event, facilitating a session of their choice, or in any other relevent way;
 - Coordinate a workshop of their choice directly before or after a DH-IGNITE event at their institution; and
 - Continue to play an active role in the community by acting as liaison for the ESCALATOR programme, participating in activiities offered via the ESCALATOR programme, providing feedback on activities and events hosted via ESCALATOR, assisting with understanding the needs of the local community in terms of digital/computational practices in humanities and social sciences, or any other relevant way.
-- **Register via the online form**:  Registration will open soon!
+- **Register via the online form**:  [Click here](https://forms.gle/zNtY1sBWpN4pWaBR8)
 - Submit the nomination email from the dean, library director, or relevant person to confirm nomination status:
 
 ### Open participation (in-person or virtual)
 
 - Staff and students who are not nominated will be able to apply to participate virtually or in-person in the relevant regional DH-IGNITE event.
 - Applicants will be selected by the DH-IGNITE team based on the strength of their applications.
-- **Application form**: Applications will open soon!
+- **Application form**: [Click here](https://forms.gle/zNtY1sBWpN4pWaBR8)
 
 <br>
 
