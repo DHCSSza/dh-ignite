@@ -43,11 +43,9 @@ categories:
 
 _This post was contributed by Anusha Sewchurran (Lecturer, Faculty of Arts and Design, Durban University of Technology)._
 
+{{< figure src="featured.jpg" caption="Anusha represented DUT on the panel discussion titled _A vision for digital and computational research in humanities and social sciences_ at DH-IGNITE KZN 2022." numbered="false" >}}
 
 I was introduced (by chance) to Digital Humanities (DH) a few years ago when I walked into Prof Langa Khumalo’s office at North-West University for an entirely unrelated issue. He generously invited me to a DH event and I could not believe I had missed this discourse. The DH community welcomed me and were generous in sponsoring my students to attend training and DH events.
-
-{{< figure src="anusha.jpg" caption="Anusha represented DUT on the panel discussion titled _A vision for digital and computational research in humanities and social sciences_ at DH-IGNITE KZN 2022." numbered="false" >}}
-
 
 What was great about DH-IGNITE KZN is that it occurred after the lockdown. Covid-19 really constricted the natural uptake of DH tools and projects suffered. At this event, I met people from my own institution, some known online, others not known. It was great to put a face to a name. I met people from other institutions, two of whom are joining the DUT staff as contact teaching assistants. In addition, we forged some beautiful links to regional institutions. 
 
