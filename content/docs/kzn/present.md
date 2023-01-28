@@ -10,6 +10,12 @@ date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 ---
 
+{{% callout warning %}}
+Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../#event).
+{{% /callout %}}
+
+
 ## Speaker guidelines
 ---
 
@@ -26,6 +32,7 @@ Speakers are required to make their information available via the Zoom Events pl
 
 ## Poster presentations
 ---
+
 
 {{% callout note %}}
 

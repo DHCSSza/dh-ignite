@@ -12,6 +12,13 @@ date: '2022-06-30T00:00:00Z'
 type: book # Do not modify.
 ---
 
+{{% callout warning %}}
+Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../#event).
+{{% /callout %}}
+
+
+
 ## Eligibility
 ---
 You are welcome to apply to participate in DH-IGNITE KZN if you:

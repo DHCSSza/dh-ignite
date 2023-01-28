@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: WC - Exhibitor guidelines
-weight: 4
+weight: 3
 
 # Page metadata.
 title: WC - Exhibitor guidelines
