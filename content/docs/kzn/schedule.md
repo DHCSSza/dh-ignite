@@ -32,6 +32,11 @@ type: book # Do not modify.
 
 ---
 
+{{% callout warning %}}
+Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../#event).
+{{% /callout %}}
+
 ### DAY 1
 
 {{< table path="daily-schedule/day1.csv" header="true" >}}

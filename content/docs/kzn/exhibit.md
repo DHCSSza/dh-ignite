@@ -9,10 +9,16 @@ date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 ---
 
+{{% callout warning %}}
+Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../#event).
+{{% /callout %}}
+
 DH-IGNITE is an opportunity for individuals, research groups, and organisations to showcase their digital humanities and computational social sciences work. Do you offer products or services to researchers or institutions interested in digital innovation? Come and share your work and experience!
 
 # Exhibition options
 ---
+
 
 Due to the hybrid format of DH-IGNITE, we offer two options for exhibitors:
 

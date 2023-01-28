@@ -1,25 +1,20 @@
 ---
-title: KZN - Physical & virtual participation
-linktitle: KZN - Physical & virtual participation
+title: WC - Physical & virtual participation
+linktitle: WC - Physical & virtual participation
 type: book
-date: '2022-07-04T00:00:00+01:00'
+date: '2023-01-28T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 4
 ---
-
-{{% callout warning %}}
-Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
-For more information about upcoming DH-IGNITE events, [please click here](../../#event).
-{{% /callout %}}
 
 ## Physical participation
 ---
 
-If you applied to participate in person, please join us at [Coastlands Hotel, Umhlanga](https://www.coastlands.co.za/umhlanga/) on 18 & 19 October 2022.
+If you were nominated by your dean or your application for in-person participation was successful, please join us at [Lord Charles Hotel, Somerset West](https://lordcharleshotel.com/) from 8 - 10 March 2023.
 
-- Main event: African Fire, 2nd Floor
-- Expo, networking & meals: African Heritage, 2nd Floor
+- Main event: Somerset Rooms 2 & 3
+- Expo, networking & meals: Vergelegen Room
 
 {{% callout note %}}
 

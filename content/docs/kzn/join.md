@@ -8,6 +8,13 @@ date: '2022-07-04T00:00:00+01:00'
 weight: 1
 ---
 
+
+{{% callout warning %}}
+Please note: This event took place in October 2022. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../#event).
+{{% /callout %}}
+
+
 ## Participation options
 ---
 

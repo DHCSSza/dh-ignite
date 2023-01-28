@@ -62,4 +62,4 @@ Please complete the application form at <https://forms.gle/7w9ahc2bJkivka2M7>
 
 ## More information
 
-Please visit our [DH-IGNITE Knowledge Center](../../docs/) for more information about the event.
+Please visit our [DH-IGNITE Knowledge Center](../../docs/kzn) for more information about the event.
