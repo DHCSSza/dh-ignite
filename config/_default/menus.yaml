@@ -59,6 +59,11 @@ main:
     weight: 30
     parent: "About"
 
+  - name: "People"
+    url: "people"
+    weight: 30
+    parent: "About"
+
   - name: "Upcoming events"
     url: "#event"
     weight: 40
