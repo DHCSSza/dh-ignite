@@ -20,7 +20,7 @@ Due to the hybrid format of DH-IGNITE, we offer two options for exhibitors:
 
 {{% callout note %}}
 
-Full guidelines for exhibitors wanting to make use of physical exhibition spaces are will be shared shortly.
+Full guidelines for exhibitors wanting to make use of physical exhibition spaces are [available online](https://docs.google.com/document/d/1o42ZY41c0Za3mIiYFRnqgVDOhKrdgdrLvDbrK0Jhj10/edit?usp=sharing).
 
 {{% /callout %}}
 
@@ -62,9 +62,16 @@ The DH-IGNITE team will invite potential exhibitors to showcase their work, prod
 
 ### By application
 
-Please [contact us](../../../#contact) if you have not received an invitation but would like to exhibit your work at the conference. In your email, please include the following information:
+{{% callout note %}}
 
-- The institution or company you are representing
+Please [contact us](../../../#contact) if you have not received an invitation but would like to exhibit your work at the conference. 
+
+{{% /callout %}}
+
+
+In your email, please include the following information:
+
+- The institution, company, or project you are representing
 - A short description of the work you will be exhibiting 
 - The number of team members that will be joining you to exhibit
 - Information about your needs for the exhibition (e.g. table, electricity, etc.). The DH-IGNITE team will arrange for an exhibition venue, but exhibitors will be responsible for their setup and additional resources.
