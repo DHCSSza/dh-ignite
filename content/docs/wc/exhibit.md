@@ -48,7 +48,21 @@ Virtual and in-person participants will have access to the virtual booths.
 ## Costs
 ---
 
-Exhibitors will not be charged a fee to exhibit their work but will be liable for paying conference day fees (tea breaks and lunch are included), parking, travel and accommodation (including breakfast and dinner) for each team member joining the exhibition.
+SADiLaR is sponsoring exhibition spaces and exhibitor participation in DH-IGNITE. 
+
+### Physical booths at Lord Charles Hotel
+
+- Exhibitors will not be charged an exhibition fee
+- Booth representatives are limited to one person per stand due to limited space at the venue. Should exhibitors want to bring more than one representative, please contact the organising team to discuss
+- Each booth representative should [please register via the online form](https://forms.gle/R6Zz7Yc8iVHiVRkq5) to ensure the organising team is aware of the number of people joining for administrative purposes
+- The conference day fee sponsored by SADiLaR includes: tea breaks, lunch, parking)
+- Travel and accommodation (including breakfast and dinner) for each team member joining the exhibition will be for exhibitors' own budget.
+
+
+### Virtual booths on Zoom Events:
+
+- Exhibitors will not be charged an exhibition or participation fee
+- Each booth representative should [please register via the online form](https://forms.gle/R6Zz7Yc8iVHiVRkq5) to ensure the organising team is aware of the number of people joining for administrative purposes
 
 <br>
 
