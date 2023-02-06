@@ -82,14 +82,17 @@ main:
     url: "#participate"
     weight: 40
 
+  - name: "Workshops"
+    url: "#workshops"
+    weight: 50
 
   - name: "Contact"
     url: "#contact"
-    weight: 50
+    weight: 60
 
   - name: "Blog"
     url: "post"
-    weight: 60
+    weight: 70
 
   - name: "Important information"
     weight: 80
