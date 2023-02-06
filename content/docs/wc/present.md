@@ -38,7 +38,7 @@ Guidelines are available at <https://docs.google.com/document/d/1Mtp7kC1flpJ4mBc
 | Action             | Date                |
 |--------------------|---------------------:|
 |Application opening | **24 January 2023** |
-|Application closing | **3 February 2023** |
+|Application closing | **10 February 2023** |
 |Applications outcomes communicated | **10 February 2023** |
 |Final confirmation  | **17 February 2023** |
 |Final date for submitting slides (and recordings in case of virtual presentation) | **3 March 2023** |
