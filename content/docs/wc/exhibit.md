@@ -52,17 +52,17 @@ SADiLaR is sponsoring exhibition spaces and exhibitor participation in DH-IGNITE
 
 ### Physical booths at Lord Charles Hotel
 
-- Exhibitors will not be charged an exhibition fee
-- Booth representatives are limited to one person per stand due to limited space at the venue. Should exhibitors want to bring more than one representative, please contact the organising team to discuss
-- Each booth representative should [please register via the online form](https://forms.gle/R6Zz7Yc8iVHiVRkq5) to ensure the organising team is aware of the number of people joining for administrative purposes
-- The conference day fee sponsored by SADiLaR includes: tea breaks, lunch, parking)
-- Travel and accommodation (including breakfast and dinner) for each team member joining the exhibition will be for exhibitors' own budget.
+- Exhibitors will not be charged an exhibition fee.
+- Booth representatives are limited to one person per stand due to limited space at the venue. Should exhibitors want to bring more than one representative, please [discuss this](mailto:dh-ignite@talarify.co.za) with the organising team.
+- Each booth representative needs to [complete the online registration form](https://forms.gle/R6Zz7Yc8iVHiVRkq5).
+- The conference day fee, sponsored by SADiLaR, includes tea breaks, lunch, and parking.
+- Travel and accommodation (including breakfast and dinner) for each team member joining the exhibition will be for the exhibitors’ budget.
 
 
 ### Virtual booths on Zoom Events:
 
-- Exhibitors will not be charged an exhibition or participation fee
-- Each booth representative should [please register via the online form](https://forms.gle/R6Zz7Yc8iVHiVRkq5) to ensure the organising team is aware of the number of people joining for administrative purposes
+- Exhibitors will not be charged an exhibition or participation fee.
+- Each booth representative needs to complete the [online registration form](https://forms.gle/R6Zz7Yc8iVHiVRkq5).
 
 <br>
 
@@ -101,8 +101,8 @@ The DH-IGNITE team will evaluate applications based on space availability, relev
 
 - Exhibition invitations sent:        20 January 2023
 - Exhibition application opening:     20 January 2023
-- Exhibition application closing:     TBC
-- Applications outcomes communicated: TBC
-- Final confirmation of exhibitors:   TBC
-- Exhibition information due date:    TBC
+- Exhibition application closing:     10 February 2023
+- Applications outcomes communicated: 17 February 2023
+- Final confirmation of exhibitors:   25 February 2023
+- Exhibition information due date:    1 March 2023
 

@@ -50,7 +50,7 @@ design:
 ---
 
 {{% callout note %}}
-{{< icon name="bullhorn" pack="fas" >}} **DH-IGNITE WESTERN CAPE DATE ANNOUNCED!** Join us from **8 - 10 March 2023**! Applications are now open!
+{{< icon name="bullhorn" pack="fas" >}} __Application deadline: 10 February 2023__
 {{% /callout %}}
 
 {{% callout warning %}}
