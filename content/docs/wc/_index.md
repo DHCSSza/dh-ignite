@@ -34,6 +34,14 @@ You are welcome to apply to participate in DH-IGNITE Western Cape if you:
 
 <br>
 
+## Important dates
+---
+
+- Application closing date: 10 February 2023
+- Confirmation of succesful applicants: 17 February 2023
+- Final confirmation by participants: 20 February 2023
+
+
 ## Venue
 ---
 

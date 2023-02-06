@@ -9,7 +9,11 @@ date: '2023-01-28T00:00:00Z'
 type: book # Do not modify.
 ---
 
-DH-IGNITE KZN took place on 18 - 19 October in Umhlanga, KwaZulu-Natal. This was the first of six DH-IGNITE events.
+{{% callout info %}}
+Please note: DH-IGNITE KZN took place on 18 - 19 October in Umhlanga, KwaZulu-Natal. This was the first of six DH-IGNITE events.
+{{% /callout %}}
+
+
 
 Please find some useful resources and information about DH-IGNITE KZN below.
 
