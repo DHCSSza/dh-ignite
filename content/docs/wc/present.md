@@ -31,6 +31,11 @@ A Lightning talk is a short presentation covering only a tiny focus area of your
 
 Guidelines are available at <https://docs.google.com/document/d/1Mtp7kC1flpJ4mBcPP7sJmuwH8rQ0UG3U8MU1nVKiZCM/edit?usp=sharing>.
 
+### Lightning talk sessions @ DH-IGNITE WC
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1WKU7LlZSqskO5OqrNjl4i_RnIjqgMDDRewuRcGOJwH8qBWfGj20SRgwhSmWZWNDiCcqMt75ZqRQ8/pubhtml?widget=true&amp;headers=false" width="800px" height="600px"></iframe>
+
+
 ### Lightning talks: Important dates
 
 <br>
