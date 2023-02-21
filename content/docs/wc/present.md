@@ -27,7 +27,7 @@ Speakers are required to make their information available via the Zoom Events pl
 ## Lightning talks
 ---
 
-A Lightning talk is a short (no longer than 5 minutes) presentation covering only a tiny focus area of your research or idea. Through the lightning talk session, we want to give researchers and students an opportunity to share with others what they are working on, what they have learned, how they are using digital and computational tools or practices in their research, and more.
+A Lightning talk is a short presentation covering only a tiny focus area of your research or idea. Through the lightning talk session, we want to give researchers and students an opportunity to share with others what they are working on, what they have learned, how they are using digital and computational tools or practices in their research, and more.
 
 Guidelines are available at <https://docs.google.com/document/d/1Mtp7kC1flpJ4mBcPP7sJmuwH8rQ0UG3U8MU1nVKiZCM/edit?usp=sharing>.
 
@@ -37,10 +37,6 @@ Guidelines are available at <https://docs.google.com/document/d/1Mtp7kC1flpJ4mBc
 
 | Action             | Date                |
 |--------------------|---------------------:|
-|Application opening | **24 January 2023** |
-|Application closing | **10 February 2023** |
-|Applications outcomes communicated | **10 February 2023** |
-|Final confirmation  | **17 February 2023** |
 |Final date for submitting slides (and recordings in case of virtual presentation) | **3 March 2023** |
 
 

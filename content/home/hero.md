@@ -4,19 +4,14 @@ headless: true
 weight: 10
 title: | 
   Exploring digital and computational research in humanities & social sciences
-    {style="color: white; font-size: 2.8rem; "} 
+    {style="color: white; font-size: 3rem; "} 
   
   __8 - 10 March 2023__
-    {style="color: #ffbd59; font-size: 1.7rem; "} 
+    {style="color: #ffbd59; font-size: 2rem; "} 
 
   __Lord Charles Hotel, Somerset West__
-    {style="color: #ffbd59 ; font-size: 1.7rem; "} 
+    {style="color: #ffbd59 ; font-size: 2rem; "} 
   
-  <br>
-
-  __*Apply before 10 February 2023!*__
-    {style="color: #c9e265; font-size: 1.7rem; "} 
-
 hero_media: dh-ignite.svg
 design:
   background:
@@ -28,17 +23,4 @@ cta:
   label: 
   icon_pack: 
   icon: 
-
-
 ---
-
-<br>
-
-<a href="#participate"><img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 50%;"
-    src="learn-more.png" 
-    alt="register-now button">
-</img></a>

@@ -49,11 +49,11 @@ design:
 
 ---
 
-{{% callout note %}}
-{{< icon name="bullhorn" pack="fas" >}} __Application deadline: 10 February 2023__
+{{% callout warning %}}
+{{< icon name="bullhorn" pack="fas" >}} __Applications for DH-IGNITE Western Cape are now closed__
 {{% /callout %}}
 
-{{% callout warning %}}
+{{% callout note %}}
 Please note that there are <u>**no costs**</u> involved to participate in DH-IGNITE. Conference fees for participants who are either nominated for participation by their faculties or library directors, or who are accepted through the open application system, will be sponsored by SADiLaR via the ESCALATOR programme.<br>
 
 Travel, accommodation, dinner, and other incidentals will be <u>**for faculties/departments/participants own cost**</u>.<br>
