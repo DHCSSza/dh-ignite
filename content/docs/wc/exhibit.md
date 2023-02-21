@@ -54,7 +54,6 @@ SADiLaR is sponsoring exhibition spaces and exhibitor participation in DH-IGNITE
 
 - Exhibitors will not be charged an exhibition fee.
 - Booth representatives are limited to one person per stand due to limited space at the venue. Should exhibitors want to bring more than one representative, please [discuss this](mailto:dh-ignite@talarify.co.za) with the organising team.
-- Each booth representative needs to [complete the online registration form](https://forms.gle/R6Zz7Yc8iVHiVRkq5).
 - The conference day fee, sponsored by SADiLaR, includes tea breaks, lunch, and parking.
 - Travel and accommodation (including breakfast and dinner) for each team member joining the exhibition will be for the exhibitors’ budget.
 
@@ -62,7 +61,6 @@ SADiLaR is sponsoring exhibition spaces and exhibitor participation in DH-IGNITE
 ### Virtual booths on Zoom Events:
 
 - Exhibitors will not be charged an exhibition or participation fee.
-- Each booth representative needs to complete the [online registration form](https://forms.gle/R6Zz7Yc8iVHiVRkq5).
 
 <br>
 

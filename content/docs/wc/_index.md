@@ -24,7 +24,7 @@ You are welcome to apply to participate in DH-IGNITE Western Cape if you:
 ---
 
 {{< icon name="info-circle" pack="fas" >}}
-[Click here](../../#participate) for registration/application information
+Registration is now closed.
 
 ## Date
 ---
