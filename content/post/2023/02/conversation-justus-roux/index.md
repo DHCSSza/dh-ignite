@@ -40,7 +40,9 @@ categories:
 
 In a line-up that promises to be both edifying and stimulating, Prof Justus C Roux is one of the plenary speakers at DH-IGNITE. He has been a trailblazer in establishing digital infrastructure to support the development of language resources in South Africa.
 
-Roux began his journey as a linguist specialising in African languages. He quickly realised the importance of verifiable data in research and submitted his doctoral thesis,_Labialization in Sesotho: The role of phonetic data in phonological analyses_, at Stellenbosch University in 1979. This groundbreaking work utilised a range of experimental techniques, including X-ray and cine-fluorographic analyses, airflow measurements in speech production, and acoustic analyses.
+{{< figure src="justus.jpg" caption="Prof Justus C Roux." numbered="false" >}}
+
+Roux began his journey as a linguist specialising in African languages. He quickly realised the importance of verifiable data in research and submitted his doctoral thesis, _Labialization in Sesotho: The role of phonetic data in phonological analyses_, at Stellenbosch University in 1979. This groundbreaking work utilised a range of experimental techniques, including X-ray and cine-fluorographic analyses, airflow measurements in speech production, and acoustic analyses.
 
 His focus on reliable data led to his involvement in the African Speech Technology (AST) project in 1999, which he says truly set him on the path to digital humanities (DH). AST was the first major project in Human Language Technologies (HLT) in South Africa, bringing together linguists, engineers, and computer scientists to develop speech corpora in digital format. This project was a turning point for Roux, who recognised the need for large-scale data and the development of digital software tools to enable new research and development possibilities.
 
@@ -48,7 +50,7 @@ His focus on reliable data led to his involvement in the African Speech Technolo
 >
 > _– Justus Roux_
 
-{{< figure src="conversation.jpg" caption="Participants at DH-IGNITE KZN 2022." numbered="false" >}}
+{{< figure src="featured.jpg" caption="Participants at DH-IGNITE KZN 2022." numbered="false" >}}
 
 Inspired by the activities of the Alliance of Digital Humanities Organizations ([ADHO](https://adho.org/)), Roux attended the Digital Humanities Summer Institute at the University of Victoria, Canada, in 2014. There, he met Prof Ray Siemens and his team of presenters. He was struck by the energy of the participants and the potential of DH, which was followed by a meeting with Prof Harold Short of Kings College in London. These experiences led to the establishment of two international DH workshops in Potchefstroom in 2015 and 2016, where both Siemens and Short were keynote speakers. At the 2016 workshop, the Digital Humanities Association of Southern Africa ([DHASA](https://adho.org/)) was established. DHASA then organised the First and Second International Conferences respectively in 2017 (Stellenbosch) and 2019 (Pretoria).  (DHASA has also started its own [academic journal](https://upjournals.up.ac.za/index.php/dhasa/), which Roux sees as an important development in the field.)
 
