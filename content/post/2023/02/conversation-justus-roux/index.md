@@ -40,7 +40,7 @@ categories:
 
 In a line-up that promises to be both edifying and stimulating, Prof Justus C Roux is one of the plenary speakers at DH-IGNITE. He has been a trailblazer in establishing digital infrastructure to support the development of language resources in South Africa.
 
-{{< figure src="justus.jpg" caption="Prof Justus C Roux." numbered="false" >}}
+{{< figure src="justus.jpg" caption="Prof Justus C Roux." numbered="false" width="30%" >}}
 
 Roux began his journey as a linguist specialising in African languages. He quickly realised the importance of verifiable data in research and submitted his doctoral thesis, _Labialization in Sesotho: The role of phonetic data in phonological analyses_, at Stellenbosch University in 1979. This groundbreaking work utilised a range of experimental techniques, including X-ray and cine-fluorographic analyses, airflow measurements in speech production, and acoustic analyses.
 
