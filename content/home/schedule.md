@@ -31,4 +31,6 @@ design:
 
 # DAY 3
 
-{{< table path="daily-schedule/day3.csv" header="true" >}}
+{{< table path="daily-schedule/day3-1.csv" header="true" >}}
+
+{{< table path="daily-schedule/day3-2.csv" header="true" >}}
