@@ -9,5 +9,4 @@ design:
   css_class: 
 ---
 
-<iframe src="daily-schedule/dh-ignite-wc-2023-programme.pdf" width="100%" height="700px">
-
+<iframe src="https://drive.google.com/file/d/1GHdmyICQ72sm8w9ji_tRUpUewiRiykS_/preview" width="100%" height="700px" allow="autoplay"></iframe>
