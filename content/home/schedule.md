@@ -12,5 +12,4 @@ design:
 
 ---
 
-<iframe src="uploads/dh-ignite-wc-2023-programme.pdf" width="100%" height="700px">
-
+<iframe src="/uploads/dh-ignite-wc-2023-programme.pdf" width="100%" height="700px">
