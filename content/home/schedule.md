@@ -17,20 +17,24 @@ design:
 ---
 
 
-# DAY 1
+# DAY 1 - 8 March 2023
 
 {{< table path="daily-schedule/day1.csv" header="true" >}}
 
 <br>
 
-# DAY 2 
+# DAY 2 - 9 March 2023
 
 {{< table path="daily-schedule/day2.csv" header="true" >}}
 
 <br>
 
-# DAY 3
+# DAY 3 - 10 March 2023
+
+### Introduction to video and audio annotation with ELAN
 
 {{< table path="daily-schedule/day3-1.csv" header="true" >}}
+
+### First steps to text mining
 
 {{< table path="daily-schedule/day3-2.csv" header="true" >}}
