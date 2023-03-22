@@ -63,4 +63,6 @@ Read more about [Zoom Events online](https://support.zoom.us/hc/en-us/articles/4
 
 We will share more information and guidelines with registered participants, speakers, and exhibitors prior to the event.
 
+Looking forward to seeing you all online.
+
 {{% /callout %}}
