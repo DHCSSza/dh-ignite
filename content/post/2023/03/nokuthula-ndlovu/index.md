@@ -40,6 +40,8 @@ categories:
 
 _By: Nokuthula Ndlovu (Faculty Librarian/Library Branch Manager: CPUT)_
 
+{{< figure src="featured.jpg" caption="" numbered="false" >}}
+
 Attending DH-IGNITE as an academic librarian in social sciences has been a valuable opportunity to acquire new knowledge, network with colleagues, and discover innovative tools and methods to enhance my work. The conference has been particularly relevant to my discipline, offering resources and tools that can support my research and the research of faculty and students in my institution. The insights gained from DH-IGNITE have provided me with enriching knowledge and skills that will help advance research in my discipline and contribute to the broader digital humanities community.
 
 Attending DH-IGNITE has taught me about data visualisation, text analysis, and mapping tools, which can help identify patterns and trends in large datasets, analyse textual content, and visualise geographic data. Incorporating these tools into my research workflow can save time, improve the accuracy of analyses, and generate meaningful insights. Furthermore, by staying up-to-date with the latest developments in digital humanities research, I can provide informed and practical support to faculty and students in my institution.
