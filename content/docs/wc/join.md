@@ -8,6 +8,11 @@ date: '2023-01-28T00:00:00+01:00'
 weight: 1
 ---
 
+{{% callout warning %}}
+Please note: This event took place in March 2023. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../../#event).
+{{% /callout %}}
+
 ## Registration form
 ---
 

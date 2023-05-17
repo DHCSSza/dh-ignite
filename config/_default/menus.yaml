@@ -102,9 +102,6 @@ main:
     weight: 10
     parent: "Important information"
 
-  - name: "Western Cape Region"
-    url: "docs/wc"
-    weight: 20
-    parent: "Important information"
+
 
 

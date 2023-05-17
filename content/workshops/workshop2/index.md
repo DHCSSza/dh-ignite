@@ -1,17 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Workshop 2: First steps to text mining
-"
+title: "Workshop 2: Topic will be confirmed soon"
 summary: |
 
-  ___Presenter:__ Prof Menno van Zaanen (Digital Humanities Professor, SADiLaR)_
 
-  In this workshop we will take a look at some fundamental skills that will get you started on your journey with text mining. To kick off, we will learn how to tell the computer what to search for.  We will start out with simple search operations and explore their limitations. After that, we will look at more complex search operations.  We will also introduce the first data wrangling steps for example converting text data into other formats for further processing. The workshop is accessible to humanities and social sciences students and researchers with no prior exposure to programming. We will not be covering any advanced text mining strategies or tools.  Skills learned will be applicable in other aspects of research such as well, e.g. literature reviews.
-
-
-authors: ["Prof Menno van Zaanen"]
-tags: ["text mining", "data analysis"]
+authors: []
+tags: []
 categories: ["workshops"]
 date: 2023-01-23T02:28:48+02:00
 
@@ -47,6 +42,7 @@ url_video: ""
 slides: ""
 ---
 
+<!--
 
 **Presenter:** Prof Menno van Zaanen
 
@@ -98,3 +94,4 @@ The workshop will be relevant to anybody who uses text on a computer regularly. 
 
 After following this workshop, you will be able to perform simple and more complex search operations in texts. You will be able to automatically identify patterns in text. You will also be able to perform search and replace operations that allow for simple data wrangling (in other words, to convert text into data formats for further processing).
 
+-->
