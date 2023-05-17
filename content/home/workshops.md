@@ -1,6 +1,7 @@
 ---
 widget: portfolio
 headless: true  # This file represents a page section.
+draft: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: DH-IGNITE Workshops

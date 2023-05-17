@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Western Cape (8 - 10 March 2023)
+linktitle: PAST - Western Cape (8 - 10 March 2023)
 weight: 2
 icon: fire
 icon_pack: fas
@@ -10,6 +10,11 @@ title: Western Cape (2023)
 date: '2023-01-24T00:00:00Z'
 type: book # Do not modify.
 ---
+
+{{% callout warning %}}
+Please note: This event took place in March 2023. We are keeing the information available on the web for posterity.
+For more information about upcoming DH-IGNITE events, [please click here](../../../#event).
+{{% /callout %}}
 
 ## Eligibility
 ---

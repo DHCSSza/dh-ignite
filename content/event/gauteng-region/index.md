@@ -1,7 +1,7 @@
 ---
-title: Gauteng Region - 2022 - date to be confirmed
+title: Central & Western Region (23 - 25 Aug 2023)
 
-event: DH-IGNITE - Gauteng region
+event: DH-IGNITE - Central & Westrn Region
 event_url: 
 
 location: 
@@ -13,18 +13,33 @@ address:
   country: 
 
 summary: |
-  Invited institutions: UP, UNISA, TUT, VUT, SMU, WITS, UJ, CSIR, HSRC
+  __Invited institutions:__ 
+    {style="color: #d11f26; font-size: 1rem;"} 
+
+  - __Gauteng__: UP, UNISA, TUT, VUT, SMU, WITS, UJ
+    {style="color: #d11f26; "} 
+
+  - __Free State__: CUT, UFS
+    {style="color: #d11f26; "} 
+
+  - __Northern Cape__: SPU
+    {style="color: #d11f26; "} 
+
+  - __North-West__: NWU
+    {style="color: #d11f26; "} 
+
+  - __Research Councils__: CSIR, HSRC
     {style="color: #d11f26; "} 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-30T09:00:00Z'
-date_end: '2023-12-15T17:00:00Z'
+date: '2023-08-23T09:00:00Z'
+date_end: '2023-08-25T17:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2023-05-17T00:00:00Z'
 
 authors: []
 tags: []
@@ -33,7 +48,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**OpenStreetMaps**](https://www.openstreetmap.org/#map=9/-29.3031/31.0254)'
+  caption: 'Image credit: [**OpenStreetMaps**](https://www.openstreetmap.org/search?whereami=1&query=-30.543%2C21.852#map=7/-27.000/23.093)'
   focal_point: 
 
 url_code: ''
@@ -56,12 +71,16 @@ slides:
 projects:
 ---
 
-Are you affiliated with a public university in Gauteng and interested to join us at DH-IGNITE Gauteng in 2022?
+Are you affiliated with a public university in Gauteng, North-West, Free State, or the Northern Cape and interested to join us at DH-IGNITE Central & Western Region in 2023?
 
-[Please complete the online form](https://forms.gle/zNtY1sBWpN4pWaBR8) and we will send you more information when registrations for the Gauteng Region event open.
+Registrations will open on 1 June 2023 - watch this space!
+
+<!--
 
 {{< cta cta_text="Complete the online form" cta_link="https://forms.gle/zNtY1sBWpN4pWaBR8" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
 
 {{% callout note %}}
 More details will be published in the [DH-IGNITE Knowledge Centre - Gauteng Region](../../docs/gauteng)
 {{% /callout %}}
+
+-->

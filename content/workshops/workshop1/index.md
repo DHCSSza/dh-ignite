@@ -1,16 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Workshop 1: Introduction to video and audio annotation with ELAN"
+title: "Workshop 1: Topic will be confirmed soon"
 summary: |
 
-  ___Presenter:__ Prof Heather Brookes (Chair, Department of General Linguistics, Stellenbosch University)_
-
-  Participants will gain experience in using ELAN to annotate video and audio recordings. No prior experience needed. ELAN (European Distributed Corpora Project Linguistic Annotator) is an annotation tool that allows users to create, edit, visualise and search annotations for video and audio data. ELAN is specifically designed for the analysis of language, sign language, and gestures, but it can be used for multi-media, video and/or audio data, for the purposes of annotation, analysis and documentation. Read more about ELAN at [https://tla.mpi.nl/tools/tla-tools/elan/](https://tla.mpi.nl/tools/tla-tools/elan/).
+ 
 
 
-authors: ["Prof Heather Brookes", "Juan Steyn"]
-tags: ["video annotation", "audio annotation"]
+authors: []
+tags: []
 categories: ["workshops"]
 date: 2023-01-23T02:28:48+02:00
 
@@ -45,6 +43,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<!-->
 
 **Presenter:** Prof Heather Brookes
 
@@ -99,3 +99,4 @@ Scholars, lecturers, and researchers working with audio or video corpora interes
 
 After conclusion of the workshop, participants will be able to start an audio or video annotation project in ELAN, create templates, and annotate or transcribe data in ELAN. 
 
+-->
