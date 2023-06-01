@@ -38,7 +38,7 @@ cta:
   icon: 
 
 cta_alt:
-  url: https://www.eventbrite.com/e/dh-ignite-qa-session-tickets-643683333177
+  url: "#q+a"
   label: or Join us for a Q&A session!
   icon_pack: 
   icon: 

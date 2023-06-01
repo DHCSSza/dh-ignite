@@ -4,7 +4,7 @@ linktitle: CWR - Media, photography, recordings
 weight: 5
 
 # Page metadata.
-title: WCR - Media, photography, recordings
+title: CWR - Media, photography, recordings
 date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 ---

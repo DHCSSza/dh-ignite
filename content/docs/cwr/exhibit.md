@@ -4,7 +4,7 @@ linktitle: CWR - Exhibitor guidelines
 weight: 3
 
 # Page metadata.
-title: WCR - Exhibitor guidelines
+title: CWR - Exhibitor guidelines
 date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 ---

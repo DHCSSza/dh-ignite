@@ -33,7 +33,7 @@ weight: 1
 - **Register via the online form**:  [click here](https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335)
 - Submit the nomination email from the dean, library director, or relevant person to confirm nomination status
 
-### Open participation (in-person or virtual)
+### Open participation (in-person)
 
 - Staff and students from UP, UNISA, TUT, VUT, SMU, WITS, UJ, CUT, UFS, SPU, NWU, CSIR, and HSRC who are not nominated will be able to apply to participate in-person.
 

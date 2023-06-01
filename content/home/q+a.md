@@ -28,5 +28,6 @@ title: |
            margin-right: auto;
            width: 30%;"
     src="register-now.png" 
-    alt="register-now button">
+    alt="register-now button"
+    target="_blank">
 </img></a>
