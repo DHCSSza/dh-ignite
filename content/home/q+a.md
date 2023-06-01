@@ -22,12 +22,11 @@ title: |
 
 ---
 
-<a href="https://www.eventbrite.com/e/dh-ignite-qa-session-tickets-643683333177"><img 
+<a href="https://www.eventbrite.com/e/dh-ignite-qa-session-tickets-643683333177" target="_blank"><img 
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
     src="register-now.png" 
-    alt="register-now button"
-    target="_blank">
+    alt="register-now button">
 </img></a>
