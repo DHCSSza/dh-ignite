@@ -1,0 +1,41 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Want to join us in-person at DH-IGNITE Central & Western Region?"
+summary: "Limited tickets are available to participate in person. Please complete the application form to indicate your interest and what you hope to learn and contribute. A selection panel will review applications and provide feedback on a rolling basis until all spaces have been filled."
+authors: []
+tags: []
+categories: []
+date: 2022-06-27T13:28:48+02:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+---
