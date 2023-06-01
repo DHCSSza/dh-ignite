@@ -6,7 +6,7 @@ subtitle:
 
 content:
   user_groups:
-    - "DH-IGNITE Western Cape"
+    - "DH-IGNITE Central & Western Region"
     - "Presenters"
 
 

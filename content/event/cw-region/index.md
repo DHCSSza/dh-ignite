@@ -1,7 +1,7 @@
 ---
 title: Central & Western Region (23 - 25 Aug 2023)
 
-event: DH-IGNITE - Central & Westrn Region
+event: DH-IGNITE - Central & Western Region
 event_url: 
 
 location: 
@@ -71,16 +71,13 @@ slides:
 projects:
 ---
 
-Are you affiliated with a public university in Gauteng, North-West, Free State, or the Northern Cape and interested to join us at DH-IGNITE Central & Western Region in 2023?
+Registrations are now open!
 
-Registrations will open on 1 June 2023 - watch this space!
 
-<!--
 
-{{< cta cta_text="Complete the online form" cta_link="https://forms.gle/zNtY1sBWpN4pWaBR8" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Complete the online form" cta_link="https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
 
 {{% callout note %}}
-More details will be published in the [DH-IGNITE Knowledge Centre - Gauteng Region](../../docs/gauteng)
+More details will be published in the [DH-IGNITE Knowledge Centre - Central & Western Region](../../docs/cwr)
 {{% /callout %}}
 
--->

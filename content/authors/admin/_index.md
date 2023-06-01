@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: ESCALATOR Programme Manager
 
-user_groups: ["Talarify", "DH-IGNITE Western Cape"]
+user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region"]
 
 # Organizations/Affiliations to show in About widget
 
