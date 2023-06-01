@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Chief administrative officer - Operations
 
-user_groups: ["SADiLaR", "DH-IGNITE Western Cape"]
+user_groups: ["SADiLaR", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region"]
 
 # Organizations/Affiliations to show in About widget
 
