@@ -101,7 +101,11 @@ main:
     url: "docs/"
     weight: 10
     parent: "Important information"
-
+  
+  - name: "Central & Western Region"
+    url: "docs/cwr"
+    weight: 20
+    parent: "Important information"
 
 
 

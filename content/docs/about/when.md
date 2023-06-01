@@ -15,6 +15,6 @@ We will host **FIVE** DH-IGNITE events across the country between October 2022 a
 
 - [Region 1: **KwaZulu Natal** - 18 & 19 October 2022](../../kzn/) (MUT, DUT, UNIZULU, UKZN)
 - [Region 2: **Western Cape** - 8 - 10 March 2023](../../../event/westerncape-region/) (UWC, UCT, SU, CPUT)
-- [Region 3: **Central & Western Region** - date to be confirmed](../../../event/gauteng-region) (UP, UNISA, TUT, VUT, SMU, WITS, UJ, CUT, UFS, NWU, SPU, CSIR, HSRC)
+- [Region 3: **Central & Western Region** - 23 - 25 August 2023](../../../event/cw-region) (UP, UNISA, TUT, VUT, SMU, WITS, UJ, CUT, UFS, NWU, SPU, CSIR, HSRC)
 - [Region 4: **Eastern Cape** - date to be confirmed](../../../event/easterncape-region/) (WSU, RU, NMU, UFH)
 - [Region 5: **Northern region** - date to be confirmed](../../../event/northern-region) (UL, UNIVEN, UMP)
