@@ -54,7 +54,7 @@ slides: ""
 
 **Time:** 8:30 - 12:30
 
-**Venue:** Room (TBC), Birchwood Hotel & OR Tambo Conference Centre, Johannesburg
+**Venue:** Room (TBC), Premier Hotel O.R. Tambo, Johannesburg
 
 **Max capacity:** 30 participants
 

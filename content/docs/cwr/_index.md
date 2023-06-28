@@ -49,8 +49,8 @@ You are welcome to apply to participate in DH-IGNITE Central and Western Region 
 ## Venue
 ---
 
-- **Venue:**  [Birchwood Hotel and OR Tambo Conference Centre](http://www.birchwoodhotel.co.za/)
-- **Address:** 44 Viewpoint Road, Bartlett, Boksburg
-- **Directions:** Google Maps [link](https://www.google.com/maps/place/Birchwood+Hotel+%26+OR+Tambo+Conference+Centre/@-26.1747851,28.2493239,18z/data=!4m8!3m7!1s0x1e9517d5104d176f:0x4162817a03cb0780!5m2!4m1!1i2!8m2!3d-26.1747875!4d28.2504182)
+- **Venue:**  [Premier Hotel O.R. Tambo](https://www.premierhotels.co.za/hotels/gauteng/johannesburg/or-tambo-airport/)
+- **Address:** 73 Gladiator Street, Rhodesfield, Johannesburg, Gauteng
+- **Directions:** Click here for [Google Maps](https://goo.gl/maps/hhd7ntjry5VfEYG96)
 
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3582.2895542040355!2d28.228586776191996!3d-26.122100377127257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95145dca0acbeb%3A0x8dad0bf92f1dd554!2sPremier%20Hotel%20O.R.%20Tambo!5e0!3m2!1sen!2sza!4v1687947941024!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

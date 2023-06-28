@@ -11,7 +11,7 @@ title: |
   __Dates:__ 23 - 25 August 2023
     {style="color: #ffbd59; font-size: 1.5rem; "} 
 
-  __Venue__: Birchwood Hotel & OR Tambo Conference Centre
+  __NEW VENUE__: Premier Hotel O.R. Tambo 
     {style="color: #ffbd59 ; font-size: 1.5rem; "} 
 
   __Invited institutions__:  UP, UNISA, TUT, VUT, SMU, WITS, UJ, CUT, UFS, SPU, NWU, CSIR, HSRC
