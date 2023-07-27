@@ -19,7 +19,7 @@ title: |
   
   <br>
 
-  <em>__Applications are now open!__</em>
+  <em>__Applications are now closed__</em>
     {style="color: #ffffff ; font-size: 1.5rem; "} 
 
 
@@ -32,14 +32,14 @@ design:
     gradient_end: '#CDCFE4'
     text_color_light: true
 cta:
-  url: https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335
-  label: Apply today!
+  url: https://forms.gle/3fM1w9Fqc4oESV4n9
+  label: Click here to register your interest in future events!
   icon_pack: 
   icon: 
 
 cta_alt:
-  url: "#q+a"
-  label: or Join us for a Q&A session!
+  url: 
+  label: 
   icon_pack: 
   icon: 
 

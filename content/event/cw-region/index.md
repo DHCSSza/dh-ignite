@@ -71,13 +71,9 @@ slides:
 projects:
 ---
 
-Registrations are now open!
 
-
-
-{{< cta cta_text="Complete the online form" cta_link="https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
 
 {{% callout note %}}
-More details will be published in the [DH-IGNITE Knowledge Centre - Central & Western Region](../../docs/cwr)
+More details are available in the [DH-IGNITE Knowledge Centre - Central & Western Region](../../docs/cwr)
 {{% /callout %}}
 

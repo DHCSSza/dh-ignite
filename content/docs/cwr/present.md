@@ -33,14 +33,13 @@ Read more in our [online guidelines](https://docs.google.com/document/d/1JiU23Mj
 
 <br>
 
-<!--
 
-### Lightning talk sessions @ DH-IGNITE WC
+### Lightning talk sessions @ DH-IGNITE Central & Western Region
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1WKU7LlZSqskO5OqrNjl4i_RnIjqgMDDRewuRcGOJwH8qBWfGj20SRgwhSmWZWNDiCcqMt75ZqRQ8/pubhtml?widget=true&amp;headers=false" width="800px" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1fwgiTOPUQI7HpmSpMahHeaWAS7GXoo7N/preview" width="700px" height="500px"></iframe>
 
--->
+
 
 ### Lightning talks: Important dates
 
@@ -48,9 +47,9 @@ Read more in our [online guidelines](https://docs.google.com/document/d/1JiU23Mj
 
 | Action             | Date                |
 |--------------------|---------------------:|
-|Notification of successful lightning talks| 28 July 2023|
-|Title and abstract submission|11 August 2023|
-|Final date for submitting slides |TBC|
+|Notification of successful lightning talks| Friday, 28 July, 2023|
+|Title and abstract submission|Thursday, 8 August, 2023|
+|Final date for submitting slides |Monday, 21 August, 2023|
 
 
 Please feel free to [get in touch](../../../#contact) if you have any questions. 

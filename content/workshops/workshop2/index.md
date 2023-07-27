@@ -4,11 +4,11 @@
 title: "Workshop 2: Introduction to working with digital texts (Voyant)"
 summary: |
 
-  ___Presenter:__ TBC (TBC)_
+  ___Presenter:__ Juan Steyn & SADiLaR team (SADiLaR)_
 
   The workshop aims to introduce participants to computational analysis of text through Voyant, a freely available, online tool. The session will provide a combination of presentations, demos and practical hands-on exercises. It may specifically appeal to individuals looking at new ways to include computational analysis or comparisons in their existing research data gathering and analysis steps and those working with large digital text data sets.
 
-authors: ["TBC"]
+authors: ["Juan Steyan", "SADiLaR team"]
 tags: ["text analysis"]
 categories: ["workshops"]
 date: 2023-01-23T02:28:48+02:00
@@ -46,7 +46,7 @@ slides: ""
 ---
 
 
-**Presenter:** TBC
+**Presenter:** Juan Steyn & SADiLaR team (SADiLaR)
 
 **Date:** 25 August 2023
 

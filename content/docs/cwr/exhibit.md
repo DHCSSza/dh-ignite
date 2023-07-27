@@ -15,7 +15,7 @@ DH-IGNITE is an opportunity for individuals, research groups, and organisations 
 
 {{% callout note %}}
 
-Full guidelines for exhibitors wanting to make use of physical exhibition spaces will be released shortly. 
+Full guidelines for exhibitors wanting to make use of physical exhibition spaces [are available here](https://docs.google.com/document/d/10Dqmf-k2GyPoJ-zEfIGi6HFRbcHVJ8-a9CjwLD1-Vec/edit?usp=sharing). 
 
 {{% /callout %}}
 
