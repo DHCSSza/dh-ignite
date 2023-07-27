@@ -74,10 +74,6 @@ main:
     weight: 70
     parent: "About"
 
-  - name: "Join a Q&A"
-    url: "#q+a"
-    weight: 30
-
   - name: "Participate"
     url: "#participate"
     weight: 40

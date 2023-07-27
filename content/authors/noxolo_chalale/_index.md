@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Marketing and Community Engagement Manager"
 
-user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region"]
+user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE KZN"]
 
 # Organizations/Affiliations to show in About widget
 

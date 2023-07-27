@@ -50,15 +50,15 @@ design:
 ---
 
 {{% callout warning %}}
-{{< icon name="bullhorn" pack="fas" >}} __Applications for DH-IGNITE Central & Western Region will open on 1 June 2023__
+{{< icon name="bullhorn" pack="fas" >}} __Applications for DH-IGNITE Central & Western Region are now closed__
 {{% /callout %}}
 
 {{% callout note %}}
 Please note that there are <u>**no costs**</u> involved to participate in DH-IGNITE. Conference fees for participants who are either nominated for participation by their faculties or library directors, or who are accepted through the open application system, will be sponsored by SADiLaR via the ESCALATOR programme.<br>
 
-__SADiLaR will sponsor accommodation for a maximum of 2 nominated participants from each invited institution in liaison with deans from the Faculties of Humanities.__ Travel will not be included.
+__SADiLaR sponsored accommodation applications are now closed and confirmed.__ Please note that SADiLaR is not responsible for arranging or funding any transport.
 
-Travel, accommodation, dinner, and other incidentals for other participants will be <u>**for faculties/departments/participants own cost**</u>.<br>
+Travel, accommodation, dinner, and other incidentals for all participants who have not yet received confirmation of their accommodation reservations will be <u>**for faculties/departments/participants own cost**</u>.<br>
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}

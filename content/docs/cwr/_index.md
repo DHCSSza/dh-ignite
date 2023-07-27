@@ -24,7 +24,7 @@ You are welcome to apply to participate in DH-IGNITE Central and Western Region 
 ## Registration/Application form
 ---
 
-{{< icon name="info-circle" pack="fas" >}} Complete the [online registration](https://app.smartsheet.com/b/form/1918829b2248441f8e8a2cbc83974335) form.
+{{< icon name="info-circle" pack="fas" >}} Applications are now closed.
 
 <br>
 
@@ -40,9 +40,8 @@ You are welcome to apply to participate in DH-IGNITE Central and Western Region 
 ## Important dates
 ---
 
-- Application closing date: __30 June 2023__
-- Confirmation of succesful applicants on a rolling basis from: __1 July 2023__
-- Final confirmation by participants: __14 July 2023__
+- Application closing date: __Applications are now closed__
+
 
 <br>
 
