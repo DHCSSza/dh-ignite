@@ -74,8 +74,8 @@ main:
     weight: 70
     parent: "About"
 
-  - name: "Participate"
-    url: "#participate"
+  - name: "Speakers"
+    url: "#speakers"
     weight: 40
 
   - name: "Workshops"
