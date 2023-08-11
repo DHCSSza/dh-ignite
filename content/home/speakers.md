@@ -3,6 +3,7 @@ widget: people
 headless: true  # This file represents a page section.
 title: Speakers
 subtitle: 
+weight: 50
 
 content:
   user_groups:
