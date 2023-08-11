@@ -49,6 +49,8 @@ slides: ""
 
 **Presenter:** Laurinda van Tonder, Applied Linguistics, UJ
 
+**Helpers:** Juan Steyn & Marissa Griesel
+
 **Date:** 25 August 2023
 
 **Time:** 8:30 - 12:30

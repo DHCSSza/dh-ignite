@@ -4,7 +4,7 @@
 title: "Workshop 2: Introduction to working with digital texts (Voyant)"
 summary: |
 
-  ___Presenter:__ Juan Steyn & SADiLaR team (SADiLaR)_
+  ___Presenter:__ Mmasibidi Setaka & Andiswa Bukula (SADiLaR)_
 
   The workshop aims to introduce participants to computational analysis of text through Voyant, a freely available, online tool. The session will provide a combination of presentations, demos and practical hands-on exercises. It may specifically appeal to individuals looking at new ways to include computational analysis or comparisons in their existing research data gathering and analysis steps and those working with large digital text data sets.
 
@@ -46,7 +46,7 @@ slides: ""
 ---
 
 
-**Presenter:** Juan Steyn & SADiLaR team (SADiLaR)
+**Presenter:** Mmasibidi Setaka & Andiswa Bukula (SADiLaR)
 
 **Date:** 25 August 2023
 

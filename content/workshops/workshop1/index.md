@@ -50,6 +50,8 @@ slides: ""
 
 **Presenter:** Prof Menno van Zaanen
 
+**Helpers:** Inonge Lupinda & Anelda van der Walt
+
 **Date:** 25 August 2023
 
 **Time:** 8:30 - 12:30
