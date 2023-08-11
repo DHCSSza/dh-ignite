@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 50
+weight: 40
 title: What can you expect?
 subtitle: 
 feature:

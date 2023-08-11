@@ -6,7 +6,7 @@ draft: true
 # ... Put Your Section Options Here (title etc.) ...
 title: DH-IGNITE Workshops
 subtitle: 
-weight: 80
+weight: 60
 
 content:
   # Choose which content to display in the widget
