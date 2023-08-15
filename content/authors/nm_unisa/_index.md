@@ -12,7 +12,7 @@ user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: CSIR
+ - name: UNISA
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
