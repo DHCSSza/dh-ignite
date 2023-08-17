@@ -47,4 +47,5 @@ highlight_name: false
 
 ## Bio
 
-TBC
+Mmasibidi Setaka is a Sesotho Language Researcher at SADiLaR. Her research interests lie in Lexicography for Sesotho, and compiling comprehensive user-friendly dictionaries for Sesotho that cater for user needs. The aim is thus to promote Sesotho and allow it to be used in educational, social, political and economic spheres through the use of dictionaries. The idea is to preserve Sesotho as a language, because when a language is preserved, its people and culture are also preserved and can be passed on from generation to generation. Her love for languages started at an early age and grew when she went to the University of the Witwatersrand and was introduced to terms like Corpora, Human Language Technologies, speech technologies etc. She knew then that she had a role to play in making sure that Sesotho is recognised too in Language technologies. She then went to University of Pretoria where she learned more about these fields and decided to focus on Lexicography for Sesotho.
+

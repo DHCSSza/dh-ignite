@@ -59,4 +59,4 @@ A vision for digital and computational research in humanities and social science
 
 ## Bio
 
-TBC
+As a professor in Digital Humanities, Menno is particularly interested in incorporating the use of computational techniques in the field of Humanities. His PhD in the area of computer science dealt with building systems that learn (linguistic) grammars from plain sequences (sentences). These empirical grammatical inference systems result in patterns that can be used for further analysis of the data, for instance, in applied machine learning, computational linguistics, or computational musicology. During his MA (computational linguistics) and MSc (computer science) studies, Menno used techniques from the one field and applied it to situations in the other, such as proofing tools and error correction, machine translation, and multi-modal information retrieval. Such techniques can be applied to Humanities data, but for them to be fully successful, the results still need to be interpreted in the context of Humanities.
