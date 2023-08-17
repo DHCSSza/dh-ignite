@@ -59,7 +59,7 @@ South African data sources: opportunities and challenges
 
 ## Abstract
 
-TBC
+The convergence of digital humanities and digital libraries is bringing changes in the digital information landscape and user needs have prompted libraries to keep permanently up to date to maintain their relevance in this dynamic networked digital environment.  The library and information science (LIS) community has taken efforts in providing new facilities and developing new services to meet humanities scholars’ changing research behaviors and needs employing Digital Scholarship Centres, Makerspaces, Media Labs, Digital Fabrication Laboratories (FabLabs) to provide digital experience to clients using a variety of digital tools and methods. However, effectively collaborating with the DH community is still a challenging task for the LIS sector in their digital library (DL) development endeavours. This presentation will outline a proposal regarding opportunities and challenges for collaboration, which can benefit DH, as well as proving libraries with an important role in hosting digital spaces, and handling and delivery of digital resources, thus maintaining their relevance and importance in the research cycle.
 
 ## Bio
 
