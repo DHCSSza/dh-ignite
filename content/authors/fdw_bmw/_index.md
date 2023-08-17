@@ -6,7 +6,7 @@ title: "Febe de Wet"
 superuser: false
 
 # Role/position/tagline
-role: "TBC"
+role: "Voices of Mzansi: Localising the Mozilla Common Voice platform for South Africa’s official languages"
 
 user_groups: ["Speakers"]
 
@@ -59,8 +59,8 @@ Welcome & opening
 
 ## Abstract
 
-TBC
+Despite many attempts to address the situation, South Africa's official languages remain under-resourced in terms of the text and speech data required to implement state-of-the-art language technology. To ensure that "no language is left behind", resource development should remain a priority until a strong digital presence has been established for all indigenous languages. This talk will report an ongoing initiative to strengthen the presence of South African languages on the Mozilla Common Voice platform.
 
 ## Bio
 
-TBC
+Febe de Wet is a member of the Conversational AI team at BMW South Africa's IT Hub. She is also an extraordinary associate professor at Stellenbosch University's Department of Electrical and Electronic Engineering. Her research interests include statistical pattern recognition, speech resource development and automatic speech recognition. She is especially interested in developing language technology for South Africa's indigenous languages and in educational applications of speech technology.

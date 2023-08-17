@@ -6,7 +6,7 @@ title: "Juan Steyn"
 superuser: false
 
 # Role/position/tagline
-role: "TBC"
+role: "Welcome & Wrap-up - day 1"
 
 user_groups: ["Speakers"]
 
@@ -60,4 +60,5 @@ highlight_name: false
 
 ## Bio
 
-TBC
+Juan Steyn is the Director of Operations at SADiLaR. He has been involved in multiple Digital Humanities and Educational technology related projects. He also has a special interest in computational training and capacity building.
+
