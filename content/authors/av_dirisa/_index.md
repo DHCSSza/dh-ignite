@@ -1,18 +1,18 @@
 ---
 # Display name
-title: "Inonge Lupinda"
+title: "Anwar Vahed"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: "Uniting Humanities and Computation: Using R to Unveil Insights on the Own-Race Bias Effect"
+role: "DIRISA - A National Data Infrastructure for Digital Humanities"
 
 user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: WITS
+ - name: DIRISA
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,16 +51,17 @@ highlight_name: false
 
 ## Time
 
-14:00
+13:00
 
 ## Session
 
-Case-studies: Showcasing examples of humanities/social sciences research projects with computational/digital element
+South African infrastructure for digital/computational research
+
 
 ## Abstract
 
-This talk showcases how computational methods such as R programming can facilitate the exploration of the social effect of Own-Race bias. This powerful computational method not only illuminates the psychological and societal significance of this phenomenon but also shows the importance and usefulness of applying digital tools within social science research.
+There is an increasing need to soundly manage – i.e., reliably store, share and preserve research data in the humanities and social sciences. The Data Intensive Research Initiative of South Africa (DIRISA) provides a host of data management services supporting these activities. These services are presented, along with various storage options provided by DIRISA. 
 
 ## Bio
 
-Inonge is a Master of Arts candidate at the University of Witwatersrand, with a background in the social sciences and humanities (Psychology and Criminology). Passionate about advancing Africa and women through knowledge and research, and being a catalyst for progress and change by embracing the digital age and celebrating digital humanities.
+Dr Anwar Vahed is the Director of the Data Intensive Research Initiative of South Africa (DIRISA). He manages the implementation of the national research data infrastructure for data intensive research and research data management, and coordinates the development of relevant expertise and strategies. Anwar is a computer scientist with more than 20 years’ experience in academia in the fields of data science, research data management, artificial intelligence and machine learning.

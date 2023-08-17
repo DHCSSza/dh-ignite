@@ -1,13 +1,14 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-title: Speakers
+title: "DH-IGNITE Western & Central Region"
 subtitle: 
 weight: 50
 
 content:
   user_groups:
     - "Speakers"
+    - "Programme team"
 
 
 design:

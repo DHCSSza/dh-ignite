@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Anelda van der Walt
+title: Anelda van der Walt (ESCALATOR)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: ESCALATOR Programme Manager
+role: "Organising co-lead"
 
-user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region"]
+user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region", "Programme team"]
 
 # Organizations/Affiliations to show in About widget
 
 organizations:  
-  - name: Talarify
-  - url: https://talarify.co.za
+  - name: 
+  - url: 
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,10 +22,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Open Science
-- Interdisciplinary collaboration
-- Reproducible research
-- Digital & computational capacity development
+
 
 # Education to show in About widget
 education:
@@ -38,19 +35,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:escalator@talarify.co.za"
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/aneldavdw
+  link: 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=5TnwDB8AAAAJ&hl=en
+  link:
 - icon: github
   icon_pack: fab
-  link: https://github.com/anelda
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aneldavanderwalt
+  link:
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,4 +63,6 @@ email: ""
 highlight_name: false
 ---
 
+## Bio
 
+Anelda Van der Walt has a background in bioinformatics but transitioned to working across a variety of disciplines over the last few years. In 2015 she founded a South African-based consultancy, Talarify, to support digital and computational capacity and community development within research settings in Africa. Her work focuses on open science, open educational resources, reproducible research, and communities of practice. Anelda is the programme manager for the ESCALATOR programme.
