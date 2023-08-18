@@ -47,4 +47,4 @@ highlight_name: false
 
 ## Bio
 
-TBC
+Hello there, I'm Thatohatsi Bambo, a dedicated and enthusiastic final-year student at North West University pursuing a BA in Public Governance with a focus on Politics and Public Administration. As I approach the culmination of my undergraduate studies, I am excited to bring my academic insights into the real world, through a dynamic role as  a Student Administrative Assistant at the South African Centre for Digital Language Resources (SADiLar). 
