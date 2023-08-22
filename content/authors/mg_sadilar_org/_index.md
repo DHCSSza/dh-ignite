@@ -12,7 +12,7 @@ user_groups: ["Programme team"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: UNISA
+ - name: SADiLaR
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,4 +47,4 @@ highlight_name: false
 
 ## Bio
 
-TBC
+Marissa is the project manager for the African Wordnet and Multilingual Terminology projects at SADiLaR, as well as a PhD student in Unisa's Department of African Languages. Her research focus is on enhancing South African Digital Humanities with the creation of specialised text resources for our languages and she is especially interested in applying the African Wordnet in creating semantically annotated corpora. Marissa enjoys collaborative projects where researchers and developers from computer science, linguistics and other related fields can each share their expertise to find unique solutions for our under-resourced languages.

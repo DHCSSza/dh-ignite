@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Cobus Rademeyer"
+title: "Marissa Griesel"
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: SPU
+ - name: SADiLaR
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,8 +59,4 @@ A vision for digital and computational research in humanities and social science
 
 ## Bio
 
-Dr Cobus Rademeyer, currently acting Head of School of Humanities, is a Senior Lecturer in
-History at the Sol Plaatje University in Kimberley. He has extensive lecturing experience at
-tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
-and fifteen years of management experience in the Humanities. His research interests
-include public history, sport history, sport data, brand history and disability studies.
+Marissa is the project manager for the African Wordnet and Multilingual Terminology projects at SADiLaR, as well as a PhD student in Unisa's Department of African Languages. Her research focus is on enhancing South African Digital Humanities with the creation of specialised text resources for our languages and she is especially interested in applying the African Wordnet in creating semantically annotated corpora. Marissa enjoys collaborative projects where researchers and developers from computer science, linguistics and other related fields can each share their expertise to find unique solutions for our under-resourced languages.

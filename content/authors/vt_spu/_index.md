@@ -1,18 +1,18 @@
 ---
 # Display name
-title: "Marissa Griesel"
+title: Victor Teise
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
+role: "Digital teaching and learning in the proposed Research Centre for Creative Writing and African languages"
 
 user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: UNISA
+ - name: SPU
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,15 +47,19 @@ highlight_name: false
 
 ## Date
 
-24 August 2023
+23 August 2023
 
 ## Time
 
-10:00
+15:00
 
 ## Session
 
-A vision for digital and computational research in humanities and social sciences
+Resources and opportunities for learning and teaching digital and computational skills
+
+## Abstract
+
+TBC
 
 ## Bio
 
