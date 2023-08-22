@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Cobus Rademeyer"
+title: "Grace Mathabo"
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: SPU
+ - name: UJ
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,8 +59,4 @@ A vision for digital and computational research in humanities and social science
 
 ## Bio
 
-Dr Cobus Rademeyer, currently acting Head of School of Humanities, is a Senior Lecturer in
-History at the Sol Plaatje University in Kimberley. He has extensive lecturing experience at
-tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
-and fifteen years of management experience in the Humanities. His research interests
-include public history, sport history, sport data, brand history and disability studies.
+I am a third-year student at UJ, pursuing a BA in Humanities with a major in Linguistics. Alongside my linguistic studies, i have a creative side as a passionate photographer, capturing the beauty of the world through my lens. I am also actively involved in community engagement at UJ, demonstrating my commitment to making a positive impact in the lives of others. With my multidisciplinary background and dedication to both linguistics and community service, i strive to bridge the gap between language and culture, promoting understanding and inclusivity.

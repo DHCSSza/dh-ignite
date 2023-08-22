@@ -1,18 +1,18 @@
 ---
 # Display name
-title: "Cobus Rademeyer"
+title: "Tasneem Hassem"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
+role: "Where Tech Meets Mental Health"
 
 user_groups: ["Speakers"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
- - name: SPU
+ - name: WITS
  - url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,16 +51,18 @@ highlight_name: false
 
 ## Time
 
-10:00
+14:00
 
 ## Session
 
-A vision for digital and computational research in humanities and social sciences
+Case-studies: Showcasing examples of humanities/social sciences research projects with computational/digital element
+
+## Abstract
+
+The role of technology in the field of health has changed overtime, with Artificial intelligence playing a key role in the field of digital mental health. This presentation will provide a case study highlighting the role of interdisciplinary research in the mental health space.
+
 
 ## Bio
 
-Dr Cobus Rademeyer, currently acting Head of School of Humanities, is a Senior Lecturer in
-History at the Sol Plaatje University in Kimberley. He has extensive lecturing experience at
-tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
-and fifteen years of management experience in the Humanities. His research interests
-include public history, sport history, sport data, brand history and disability studies.
+Dr Tasneem Hassem, is a research psychologist and lecturer at the University of Witwatersrand. Her research interests include mental health access, focusing on marginalised groups.
+

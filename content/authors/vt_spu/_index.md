@@ -1,12 +1,12 @@
 ---
 # Display name
-title: "Cobus Rademeyer"
+title: Victor Teise
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
+role: "Digital teaching and learning in the proposed Research Centre for Creative Writing and African languages"
 
 user_groups: ["Speakers"]
 
@@ -47,20 +47,20 @@ highlight_name: false
 
 ## Date
 
-24 August 2023
+23 August 2023
 
 ## Time
 
-10:00
+15:00
 
 ## Session
 
-A vision for digital and computational research in humanities and social sciences
+Resources and opportunities for learning and teaching digital and computational skills
+
+## Abstract
+
+TBC
 
 ## Bio
 
-Dr Cobus Rademeyer, currently acting Head of School of Humanities, is a Senior Lecturer in
-History at the Sol Plaatje University in Kimberley. He has extensive lecturing experience at
-tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
-and fifteen years of management experience in the Humanities. His research interests
-include public history, sport history, sport data, brand history and disability studies.
+TBC
