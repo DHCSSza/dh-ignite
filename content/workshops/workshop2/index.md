@@ -77,7 +77,7 @@ The workshop will provide a combination of presentations, demos and practical ha
 
 ## Topics that will be included
 
-- What you can do with Voyant (https://service.sadilar.org/voyant/)?
+- What you can do with [Voyant](https://service.sadilar.org/voyant/)?
 - How does computer-assisted analysis work?
 - Review example use cases
 - Using online tools to study texts that you find on the web or texts that you have carefully edited and have on your computer
