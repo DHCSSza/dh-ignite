@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Defining the Digital Humanities, digital scholarship spaces in the South African Academic Libraries"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ The convergence of digital humanities and digital libraries is bringing changes 
 ## Bio
 
 Lazarus Matizirofa is an Associate Director: Research, Scholarly Communication, Digital Systems & Services at the University of the Witwatersrand, Johannesburg.  He is a board member of the Networked Digital Library of Theses and Dissertations (NDLTD), an international organization that supports open-access publishing and preservation of electronic theses and dissertations (ETDs).  Lazarus is a member of the Confederation of Open Access Repositories (COAR) Next Generation Repositories Working Group. Lazarus was appointed as a member of the Technical Advisory Board on the African Open Science Platform (AOSP), and a Steering Committee member of the SA-EU Open Science Dialogue during his tenure at the National Research Foundation. He recently was also appointed by the NRF to serve as a member of the South African National CODATA Committee in 2023.
+

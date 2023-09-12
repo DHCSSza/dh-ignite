@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "The 2023 DHASA Conference"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,5 +60,6 @@ Wrap up & Closing
 ## Bio
 
 Johannes Sibeko is a lecturer in the linguistics and applied linguistics department at Nelson Mandela University. He is currently completing his PhD at North-West University. His research interests include language for education and the development of Sesotho as a language of research and education.
+
 
 

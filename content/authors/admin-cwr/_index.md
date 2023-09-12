@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: "Organising co-lead"
 
-user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region", "Programme team Aug' 23"]
+user_groups: ["Talarify", "DH-IGNITE Western Cape", "DH-IGNITE Central & Western Region", "Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 
@@ -66,4 +66,5 @@ highlight_name: false
 ## Bio
 
 Anelda Van der Walt has a background in bioinformatics but transitioned to working across a variety of disciplines over the last few years. In 2015 she founded a South African-based consultancy, Talarify, to support digital and computational capacity and community development within research settings in Africa. Her work focuses on open science, open educational resources, reproducible research, and communities of practice. Anelda is the programme manager for the ESCALATOR programme.
+
 

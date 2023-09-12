@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Digital teaching and learning in the proposed Research Centre for Creative Writing and African languages"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ TBC
 ## Bio
 
 TBC
+

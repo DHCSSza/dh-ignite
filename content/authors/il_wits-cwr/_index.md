@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Uniting Humanities and Computation: Using R to Unveil Insights on the Own-Race Bias Effect"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ This talk showcases how computational methods such as R programming can facilita
 ## Bio
 
 Inonge is a Master of Arts candidate at the University of Witwatersrand, with a background in the social sciences and humanities (Psychology and Criminology). Passionate about advancing Africa and women through knowledge and research, and being a catalyst for progress and change by embracing the digital age and celebrating digital humanities.
+

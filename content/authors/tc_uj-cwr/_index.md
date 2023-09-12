@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Facilitated discussion: Un(locking) AI"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,3 +66,4 @@ Faculty of Humanities Research Ethics Committee, (February 2019-June 2022) and i
 Chairperson of UJ’s Senate Research Ethics Committee. In addition to his keen interest in data and
 research ethics, Tapiwa is also a highly passionate Teacher, who won the 2020 Faculty of Humanities
 Innovation in Teaching and Learning Award.
+

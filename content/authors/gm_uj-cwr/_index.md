@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,3 +60,4 @@ A vision for digital and computational research in humanities and social science
 ## Bio
 
 I am a third-year student at UJ, pursuing a BA in Humanities with a major in Linguistics. Alongside my linguistic studies, i have a creative side as a passionate photographer, capturing the beauty of the world through my lens. I am also actively involved in community engagement at UJ, demonstrating my commitment to making a positive impact in the lives of others. With my multidisciplinary background and dedication to both linguistics and community service, i strive to bridge the gap between language and culture, promoting understanding and inclusivity.
+

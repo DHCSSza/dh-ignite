@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Using automated text analyzers in plain language research"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,4 +66,5 @@ Researchers working in the field of plain language require automated tools to sp
 Eleanor Cornelius is a professor in applied linguistics at the University of Johannesburg and an NRF rated researcher. She is best known for her pioneering research in the field of plain language and her research into legal translation and the peculiarities of legal language. She investigates real-world language problems in mainly the corporate and legal domains, focusing on the comprehension difficulties that arise as a result of opaque language, and she attempts to suggest practical and implementable solutions to these problems in different domains of society. In her research, she often uses automated text analyzers.
 
 Eleanor is the immediate past chairperson of the South African Translators' Institute (SATI) and a SATI accredited simultaneous interpreter. She is a vice president of the International Federation of Translators (FIT) and vice chair of FIT Africa. She is the vice chair of the FIT Taskforce on Technology. Additionally, she serves on the Board of the newly established South African Language Practitioners’ Council (SALPC). As an invited member, she forms part of the International Working Group for Community Translation, and she has been a member of the programming committee of Asling's Translating and the Computer for a number of years. Locally, she is a member of the scientific advisory council (SAC) of SADiLAR, a member of the advisory panel of the language committee of the South African Academy of Science and Art (SAAWK) and a member of SABS/TC 0037/WG 11 "Plain language".
+
 

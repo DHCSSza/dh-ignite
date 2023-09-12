@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Organising co-lead"
 
-user_groups: ["Programme team Aug' 23"]
+user_groups: ["Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,3 +50,4 @@ highlight_name: false
 Ms Jessica Mabaso brings 15 years of experience in business support to SADiLaR. She has worked extensively in administration and has 5 years experience in Business Development. Jessica's avid administration skills and dedication to customer service has led her to many opportunities to participate in various projects supporting executives, university faculties and other high profile individuals. No matter the client Jessica delivers that same level of quality and care to each and every person she serves to support.
 
 Her expertise, in addition to her administrative knowledge of SADiLaR lies in Business Development and Human Resources. She has a wide range of skills, including public creation and business writing. 
+

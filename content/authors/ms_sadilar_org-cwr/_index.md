@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Programme facilitator"
 
-user_groups: ["Programme team Aug' 23"]
+user_groups: ["Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,6 +48,7 @@ highlight_name: false
 ## Bio
 
 Ms Mmasibidi Setaka is a Digital Humanities Researcher focusing on the Sesotho language at the South African Centre for digital Language Resources (SADiLaR), which is hosted at the North-West University. She holds a Masters degree in African Languages from the University of Pretoria, with a focus on lexicography. Her interests lie in lexicography for the Sesotho language (one of the 12 official languages in South Africa). She is involved in various Digital Humanities activities in South Africa including being part of the executive committee of the Digital Humanities Association of Southern Africa. She is a certified trainer of the Carpentries, a community that teaches foundational coding and data science to researchers and is involved in creating awareness of the use of digital methodologies for researchers in Humanities and Social Sciences.
+
 
 
 

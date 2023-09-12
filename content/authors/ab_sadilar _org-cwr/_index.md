@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Programme facilitator"
 
-user_groups: ["Programme team Aug' 23"]
+user_groups: ["Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,3 +50,4 @@ highlight_name: false
 Andiswa is a language researcher at SADiLaR. As a young researcher Andiswa is determined to broaden her understanding about Digital Humanities and how some of its approaches can be utilised in order to make a positive contribution to the development of the isiXhosa language.
 
 Andiswa’s personal research interest lies in the Decolonisation of African education and the elevation of African languages. Andiswa's Masters Dissertation looked at the representation of female protagonists in isiXhosa drama books, as being represented by both male and female authors. The focus was to make a comparison between the ways in which the different genders represent women in the isiXhosa culture based on the stereotypes surrounding the isiXhosa culture.
+

@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "DIRISA - A National Data Infrastructure for Digital Humanities"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,3 +65,4 @@ There is an increasing need to soundly manage – i.e., reliably store, share an
 ## Bio
 
 Dr Anwar Vahed is the Director of the Data Intensive Research Initiative of South Africa (DIRISA). He manages the implementation of the national research data infrastructure for data intensive research and research data management, and coordinates the development of relevant expertise and strategies. Anwar is a computer scientist with more than 20 years’ experience in academia in the fields of data science, research data management, artificial intelligence and machine learning.
+

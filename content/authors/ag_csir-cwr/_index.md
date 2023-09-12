@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Overview of Human Language Technology R&D work at the CSIR"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ The Voice Computing Research Group at the CSIR has been researching and developi
 ## Bio
 
 (Dr.) Ms. Avashna Govender is a senior research & development Engineer and the Research Group Leader of the Voice Computing Research Group within the NextGen Enterprises & Institutions cluster in the Council for Scientific and Industrial Research (CSIR) in South Africa. Her recent research interests include the application of deep learning techniques that are being applied in current state-of-the-art text-to-speech and automatic speech recognition systems for under-resourced South African languages.
+

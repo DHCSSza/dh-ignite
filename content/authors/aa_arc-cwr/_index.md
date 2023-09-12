@@ -9,7 +9,7 @@ superuser: false
 role: "The multi-disciplinary narrative of geography - case study of a soil moisture-rainfall
 investigation"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,3 +65,4 @@ The overarching goals of food security and climate prediction, resilience and ad
 ## Bio
 
 Adedayo Oreoluwa Adewole is currently a fellow of the African-German Network of Excellence in Science (AGNES) at the Agricultural Research Council-Soil Climate Water (ARC-SCW) in Pretoria, where she is getting relevant exposure, strengthening her scientific capacity, and networking with senior researchers through engagement and strategic collaborations. She recently obtained doctoral degree in Geography from the Obafemi Awolowo University, Ile-Ife, Nigeria. She specializes in Remote Sensing, Geographic Information System and Geography. She is an active development advocate, frequently engaging in community outreach initiatives and presenting her results at international conferences.
+

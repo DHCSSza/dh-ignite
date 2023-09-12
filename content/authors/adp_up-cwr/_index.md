@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Digital Arts and Humanities: How to Do Things with Images"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ In this presentation, the work done by the School of the Arts, UP, particularly 
 ## Bio
 
 Amanda du Preez is Professor in the School of the Arts at the University of Pretoria, where she teaches Visual Culture and Digital Culture and Media. Her book publications include Gendered Bodies and New Technologies: Rethinking Embodiment in a Cyber-era (2009), Voices from the South. Digital Arts and Humanities (2018) and Art, the Sublime and Movement: Spaced Out (2022). She served as assistant editor of two accredited journals, Image & Text, and De Arte. She has also served on the Advisory Board of the international journal Persona Studies, and the Governing Board of the International Association for Visual Culture (IAVC). Currently she serves on the editorial board of the Journal of the Digital Humanities Association of Southern Africa, as well the managing committee of the Digital Humanities Association of Southern Africa’s (DHASA). She is also the Chair of the Arts Commission of the South African Academy for the Sciences. ORCID: https://orcid.org/0000-0002-0403-115X
+

@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Digitising questionnaires - Factors to consider"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ In a multilingual, multicultural South African society where there are many soci
 ## Bio
 
 Ms Ilana Wilken is a Senior Knowledge Applicator at the CSIR Voice Computing Research Group and holds an MA in Applied Language Studies from the University of Pretoria. Her field of focus is human-computer interaction, and she investigates the physical, emotional, intellectual, and social factors that influence how people adopt and use voice computing technology. She uses this knowledge to design the user interface and user experience of products developed during projects and to test the technical outputs.
+

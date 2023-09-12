@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Registration"
 
-user_groups: ["Programme team Aug' 23"]
+user_groups: ["Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,3 +48,4 @@ highlight_name: false
 ## Bio
 
 Inonge is a Master of Arts candidate at the University of Witwatersrand, with a background in the social sciences and humanities (Psychology and Criminology). Passionate about advancing Africa and women through knowledge and research, and being a catalyst for progress and change by embracing the digital age and celebrating digital humanities.
+

@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Media & Communication"
 
-user_groups: ["Programme team Aug' 23"]
+user_groups: ["Programme Team Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,3 +48,4 @@ highlight_name: false
 ## Bio
 
 TBC
+

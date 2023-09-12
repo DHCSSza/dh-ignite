@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Applying computational methods in legal research in South Africa"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,4 +64,5 @@ This lightning talk focuses on the computational aspects of PhD research that I 
 ## Bio
 
 I am a post-doctoral research fellow at the University of Witwatersrand (Wits) in the School of Law. I completed my PhD titled “Sanitary and phytosanitary measures as barriers to trade: a South African perspective” in 2022. My interest in applying computational methods has grown since 2020 and I applied an aspect thereof in my PhD research. I code in R and I am very interested in the building of community and sharing knowledge in the field of computational methods in law and the broader digital humanities. I am currently exploring further application of computational methods in international trade during my post-doc. When not writing or researching I am likely outdoors fly-fishing.
+
 

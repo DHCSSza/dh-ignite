@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "The feasibility of semi-automatic term-extraction in isiNdebele"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ IsiNdebele is one of the official languages of South Africa which has a scarcity
 ## Bio
 
 She is a Senior Lecturer, and the head of isiNdebele section at the University of South Africa. Her interest is in corpus linguistics. My PhD research title was on the use of corpora in the compilation of a specialized English-IsiNdebele glossary of medical terms. She has fallen in love with the WordSmith Tools.
+

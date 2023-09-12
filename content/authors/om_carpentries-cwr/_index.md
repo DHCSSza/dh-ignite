@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "The Carpentries - An Introduction (& How to Get Involved)"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ The Carpentries, which is celebrating its 25th anniversary this year, trains and
 ## Bio
 
 Oscar Masinyana is the Communications Manager at The Carpentries, an organisation building capacity in essential data and computational skills for conducting efficient, open, and reproducible research. Prior to this role, he was the Head of Researcher Services & Networks for Africa at the Taylor & Francis office in Johannesburg. He has degrees in Film and Media (2005), Linguistics (2007; 2014) and Law (2023) from the University of Cape Town and the University of Witwatersrand. 
+

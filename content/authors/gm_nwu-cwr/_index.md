@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Eye Tracking - A gateway to multi-disciplinary research"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ Eye tracking is a methodology that lets a person track the eye movements of indi
 ## Bio
 
 In 2010, Dr Gordon Matthew attained a BA-degree in Computational Linguistics at the North-West University’s (NWU’s) Potchefstroom Campus. In 2013, he attained a MA-degree in Linguistics and Literary Theory at the NWU’s Vaal Triangle Campus, the thesis topic focusing on the development of an Afrikaans Named Entity Recognizer. Gordon is part of the UPSET Focus area, and words specifically on Audio-Visual translation (specifically subtitles) and Eye Tracking. Gordon completed his PhD on different ways to determine and measure cognitive load while a person reads subtitles. He also serves on the executive committee of Eye Tracking South Africa (ETSA), is a Y2 Rated NRF researcher at the School of Languages at the NWU’s Vanderbijlpark Campus. Gordon has since also published numerous articles relating to Eye tracking, cognitive load theory and multimedia learning.
+

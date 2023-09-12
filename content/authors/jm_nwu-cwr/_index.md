@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Interactive fiction in humanities research"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,3 +60,4 @@ Resources and opportunities for learning and teaching digital and computational 
 ## Abstract
 
 This presentation will show how I am learning the skills needed to use Twine to create research-based interactive nonfiction works.
+

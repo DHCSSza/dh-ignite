@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,3 +60,4 @@ A vision for digital and computational research in humanities and social science
 ## Bio
 
 My name is Lebona Cedric Mafisa, Language Practitioner, postgraduate student at North – West University (Vanderbijlpark Campus) affiliated to Research Unit (Language & Literature in the South African Context). My research focus is Sesotho Literature with emphasis on essays and philosophy; I am keen to learn more about Digital Humanities in order to assist Sesotho to advance to greater heights in this field.
+

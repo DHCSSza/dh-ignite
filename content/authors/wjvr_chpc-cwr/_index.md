@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "CHPC: An Untapped Opportunity for Humanities and Social Sciences?"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,3 +65,4 @@ The Centre for High Performance Computing (CHPC) represents a key computing rese
 ## Bio
 
 Dr Werner Janse van Rensburg is the Research Manager at the Centre for High Performance Computing (CHPC) responsible for supporting all users needing and making use of the high performance computing (HPC) infrastructure on offer. He furthermore coordinates the training and human capital development programmes at the CHPC, as well as the advanced computing engineering activities and focus of the centre. Werner has a background in computational chemistry with >20 years experience as an HPC user, which includes 13 years as an active researcher in the private sector.
+

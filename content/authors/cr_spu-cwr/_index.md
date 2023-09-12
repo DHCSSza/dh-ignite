@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ History at the Sol Plaatje University in Kimberley. He has extensive lecturing e
 tertiary level, in fields including History, Sport and Leisure Sciences, Tourism and Education
 and fifteen years of management experience in the Humanities. His research interests
 include public history, sport history, sport data, brand history and disability studies.
+

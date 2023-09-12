@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Developing speech datasets for South African Languages using Mozilla Common Voice platform"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,5 +64,6 @@ South African data sources: opportunities and challenges
 ## Bio
 
 Roné Wierenga is a linguist working as a project manager for the NWU, VivA and Afrikaans Language Council. She is also actively involved in the development and maintenance of the Digital Bibliographies for Afrikaans Linguistics (DBAT) and Literature (DBAL) as well as the localisation of the Mozilla Common Voice platform for South African languages. Her research focus is language technology, descriptive linguistics, corpus linguistics, syntax, language change and language variation. Her interests also include phonetics and phonology, digitization, and diachronic linguistics. She is currently undertaking a joint PhD inlinguistic theory at Gent University (Belgium) and the North-West University (South Africa).
+
 
 

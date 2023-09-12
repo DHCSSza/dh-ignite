@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Voices of Mzansi: Localising the Mozilla Common Voice platform for South Africa’s official languages"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,4 +64,5 @@ Despite many attempts to address the situation, South Africa's official language
 ## Bio
 
 Febe de Wet is a member of the Conversational AI team at BMW South Africa's IT Hub. She is also an extraordinary associate professor at Stellenbosch University's Department of Electrical and Electronic Engineering. Her research interests include statistical pattern recognition, speech resource development and automatic speech recognition. She is especially interested in developing language technology for South Africa's indigenous languages and in educational applications of speech technology.
+
 

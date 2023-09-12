@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "From Data to Impact: Building Transformative Skills in Data Storytelling"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ Data journalists and data storytellers are important for helping public audience
 ## Bio
 
 I am currently employed at the Human Sciences Research Council (HSRC) as a Research Assistant under the DSI-HSRC internship programme. And as a researcher, I possess expertise in developing and executing research projects, analysing data, and presenting findings to diverse audiences. I am part of a team that facilitates data journalism workshops which help recent graduates, journalists, and community media houses develop and/or enhance their capacity to effectively communicate research findings to help facilitate better informed decision-making.
+

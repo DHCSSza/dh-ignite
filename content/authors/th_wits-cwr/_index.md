@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Where Tech Meets Mental Health"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,5 +65,6 @@ The role of technology in the field of health has changed overtime, with Artific
 ## Bio
 
 Dr Tasneem Hassem, is a research psychologist and lecturer at the University of Witwatersrand. Her research interests include mental health access, focusing on marginalised groups.
+
 
 

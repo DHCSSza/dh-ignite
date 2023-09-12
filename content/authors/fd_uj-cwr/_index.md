@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Innovative teaching and learning spaces"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ The shift to a knowledge-driven economy with a great emphasis on critical thinki
 ## Bio
 
 Fatima Darsot is a high-performing and experienced Educationist with a passion for enhancing the quality of life through education at all levels. She has been at the university for the past 12 years and has been involved in teaching communication to various disciplines in the university. She also holds a strong track record for ensuring long-term sustainable growth in educational programmes. Her background is in English education, educational linguistics, education research and engineering education. Her goal is to motivate students to do their best and extend their own personal limits. She is currently pursuing a PhD in engineering education.
+

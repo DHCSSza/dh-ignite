@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Data in healthcare - opportunities, collaboration, and access"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ This talk will briefly discuss my experience with access to data within the heal
 ## Bio
 
 Hanél Duvenage is a part-time research assistant and research project coordinator at Sefako Makgatho Health Sciences University (SMU) and the research and development manager at Safe Surgery SA NPC. She holds a particular interest in the application of data science and bioinformatics to facilitate medical research. Hanél holds two MSc degrees - one in Medicine (Molecular Nutrition and Bioinformatics), obtained from Örebro University, Sweden, and one in Nutrition, obtained from the University of Pretoria, South Africa.
+

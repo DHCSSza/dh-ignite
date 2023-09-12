@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,4 +60,5 @@ A vision for digital and computational research in humanities and social science
 ## Bio
 
 Marissa is the project manager for the African Wordnet and Multilingual Terminology projects at SADiLaR, as well as a PhD student in Unisa's Department of African Languages. Her research focus is on enhancing South African Digital Humanities with the creation of specialised text resources for our languages and she is especially interested in applying the African Wordnet in creating semantically annotated corpora. Marissa enjoys collaborative projects where researchers and developers from computer science, linguistics and other related fields can each share their expertise to find unique solutions for our under-resourced languages.
+
 

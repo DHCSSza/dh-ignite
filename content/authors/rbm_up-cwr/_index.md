@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Stakeholder involvement in assistive technology"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ The involvement of various stakeholders in the development of assistive technolo
 ## Bio
 
 Rahab Blondie Mothapo is a Speech-language pathologist and Audiologist, a lecturer and a clinical supervisor at the Sefako Makgatho University in South Africa. She is a registered PhD student at the University of Pretoria under the excellent supervision of Prof Kerstin Tönsing (SA) and Dr Gloria Soto (USA). Her research interests lie in multilingualism, language development as well as AAC for native language speakers. Her particular interest in the design process as well as the implementation of AAC services for children who speak native languages in South Africa. She is a novice in academia and passionate about research in the field of AAC.
+

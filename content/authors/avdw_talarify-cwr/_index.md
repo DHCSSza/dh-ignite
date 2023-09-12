@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Growing a community of practice around digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ In this presentation we will share an overview of the [ESCALATOR programme](http
 ## Bio
 
 Anelda Van der Walt has a background in bioinformatics but transitioned to working across a variety of disciplines over the last few years. In 2015 she founded a South African-based consultancy, [Talarify](https://talarify.co.za), to support digital and computational capacity and community development within research settings in Africa. Her work focuses on open science, open educational resources, reproducible research, and communities of practice. Anelda is the programme manager for the ESCALATOR programme.
+

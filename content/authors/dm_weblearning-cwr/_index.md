@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Growing a community of practice around digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,3 +71,4 @@ Expertise with digital education is possible, if carefully designed and implemen
 ## Bio
 
 Derek Moore is an independent ed techie and critical instructional designer. Comfy with #OER, #OEP & #CC.
+

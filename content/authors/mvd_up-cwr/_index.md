@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Broad and Shallow!"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ Crossing a river, when you are far from a bridge, is to look for where the water
 ## Bio
 
 Martie van Deventer is a Research Associate at the Department of Information Science, University of Pretoria. She teaches RDM to Masters students and supervises studies related to Data and Digital Literacies. Her involvement with the CODATA-RDA School of Research Data Science - Pretoria, started with the first school in 2020. COVID was responsible for moving their training online which has become their trade mark.
+

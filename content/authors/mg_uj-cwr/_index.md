@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Panel discussion: A vision for digital and computational research in humanities and social sciences"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,3 +60,4 @@ A vision for digital and computational research in humanities and social science
 ## Bio
 
 TBC
+

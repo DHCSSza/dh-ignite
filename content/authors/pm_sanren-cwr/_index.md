@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "SANReN overview"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,3 +67,4 @@ The South African National Research Network (SANReN) offers a high-speed network
 Precilla Mashaba is a Systems Administrator at South African National Research Network. She joined SANReN on 1 st of April 2023. Her responsibilities include looking after the SANReN services such as FileSender, Netsage, Eduroam as well as servers for network performance measurement and monitoring. Precilla holds a master’s degree in IT: Communication Networks and has more than 12 years’ experience in the field.
 
 Dr Kasandra Pillay is a principal engineer at the CSIR, in the South African National Research Network’s (SANReN’s) Service Development and Incubation (SDI) team. She is co-ordinating the Performance Enhancement and Response Team (PERT) within the National Integrated Cyberinfrastructure System (NICIS). A core responsibility of this team is to work with researchers to move their large datasets faster between local and international sites. Her qualifications include a PhD (Engineering Management) from University of Johannesburg, MEng and BEng Hons (Technology Management) from the University of Pretoria, and a BSc Engineering (Electronics) from the University of KwaZulu-Natal. She is registered as a Professional Engineer (Pr. Eng.) with the Engineering Council of South Africa. 
+

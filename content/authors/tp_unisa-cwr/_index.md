@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: "Using digital methods to analyse African music"
 
-user_groups: ["Speakers Aug' 23"]
+user_groups: ["Speakers Aug '23"]
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,3 +64,4 @@ Digital methods of transcription and analysis advance new ways of thinking about
 ## Bio
 
 Thomas Pooley is an associate professor of music and chair of the Department of Art and Music at the University of South Africa.
+
