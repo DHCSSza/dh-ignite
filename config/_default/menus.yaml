@@ -49,11 +49,6 @@ main:
     weight: 10
     parent: "About"
 
-  - name: "Programme"
-    url: "#schedule"
-    weight: 20
-    parent: "About"
-
   - name: "Audience"
     url: "#who"
     weight: 30
@@ -64,18 +59,33 @@ main:
     weight: 40
     parent: "About"
 
-  - name: "Past events"
-    url: "docs/kzn/resources"
-    weight: 70
-    parent: "About"
 
-  - name: "Speakers"
-    url: "#speakers"
+  - name: "Resources"
     weight: 40
 
-  - name: "Workshops"
-    url: "#workshops"
-    weight: 50
+  - name: "DH-IGNITE KZN"
+    url: "resources/kzn"
+    weight: 10
+    parent: "Resources"
+
+  - name: "DH-IGNITE WC"
+    url: "resources/wc"
+    weight: 20
+    parent: "Resources"
+  
+  - name: "DH-IGNITE C&WR"
+    url: "resources/cwr"
+    weight: 30
+    parent: "Resources"
+
+
+  # - name: "Speakers"
+  #   url: "#speakers"
+  #   weight: 40
+
+  # - name: "Workshops"
+  #   url: "#workshops"
+  #   weight: 50
 
   - name: "Contact"
     url: "#contact"
@@ -93,10 +103,7 @@ main:
     weight: 10
     parent: "Important information"
   
-  - name: "Central & Western Region"
-    url: "docs/cwr"
-    weight: 20
-    parent: "Important information"
+
 
 
 

@@ -29,3 +29,4 @@ The ESCALATOR team set out with great excitement and planned to run numerous in-
 
 - Read the letter to the deans and DVCs [here](../about/letters/DH-IGNITE%20invitation-DVCs%20and%20Deans.pdf)
 - Read the letter to the library directors [here](../about/letters/DH-IGNITE%20info%20to%20all%20library%20directors.pdf)
+

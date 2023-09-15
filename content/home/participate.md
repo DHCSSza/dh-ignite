@@ -49,16 +49,17 @@ design:
 
 ---
 
-{{% callout warning %}}
-{{< icon name="bullhorn" pack="fas" >}} __Applications for DH-IGNITE Central & Western Region are now closed__
-{{% /callout %}}
 
 {{% callout note %}}
-Please note that there are <u>**no costs**</u> involved to participate in DH-IGNITE. Conference fees for participants who are either nominated for participation by their faculties or library directors, or who are accepted through the open application system, will be sponsored by SADiLaR via the ESCALATOR programme.<br>
+__DH-IGNITE Eastern Cape will be held in conjunction with DHASA 2023.__
 
-__SADiLaR sponsored accommodation applications are now closed and confirmed.__ Please note that SADiLaR is not responsible for arranging or funding any transport.
+<br>
 
-Travel, accommodation, dinner, and other incidentals for all participants who have not yet received confirmation of their accommodation reservations will be <u>**for faculties/departments/participants own cost**</u>.<br>
+Please note anyone may register for DHASA 2023 as it is a regular academic conference. To register, please visit the <a href ="https://dh2023.digitalhumanities.org.za/">DHASA website</a>.
+
+<br>
+
+__SADiLaR will sponsor participation of selected nominees in liason with Deans from the relevant universities.__ 
 
 Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}

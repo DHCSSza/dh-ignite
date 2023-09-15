@@ -10,6 +10,7 @@ icon_pack: fas
 title: PAST - KwaZulu Natal (18 & 19 October 2022)
 date: '2022-06-30T00:00:00Z'
 type: book # Do not modify.
+draft: true
 ---
 
 {{% callout warning %}}

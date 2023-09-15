@@ -9,6 +9,7 @@ icon_pack: fas
 title: Western Cape (2023)
 date: '2023-01-24T00:00:00Z'
 type: book # Do not modify.
+draft: true
 ---
 
 {{% callout warning %}}
@@ -52,5 +53,6 @@ Registration is now closed.
 
 - **Venue:**  [Lord Charles Hotel](https://lordcharleshotel.com/)
 - **Address:** Cnr Main Rd (M9) & Broadway Boulevard (R44), Somerset West
+
 
 
