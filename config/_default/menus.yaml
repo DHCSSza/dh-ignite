@@ -63,17 +63,17 @@ main:
     weight: 40
 
   - name: "DH-IGNITE KZN"
-    url: "resources/kzn/"
+    url: "past_events/kzn/"
     weight: 10
     parent: "Resources"
 
   - name: "DH-IGNITE WC"
-    url: "resources/wc/"
+    url: "past_events/wc/"
     weight: 20
     parent: "Resources"
   
   - name: "DH-IGNITE C&WR"
-    url: "resources/cwr/"
+    url: "past_events/cwr/"
     weight: 30
     parent: "Resources"
 
