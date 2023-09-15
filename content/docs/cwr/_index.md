@@ -1,14 +1,15 @@
 ---
 # Title, summary, and page position.
-linktitle: Central & Western Region (23 - 25 August 2023)
+linktitle: PAST - Central & Western Region (23 - 25 August 2023)
 weight: 2
 icon: fire
 icon_pack: fas
 
 # Page metadata.
-title: Central & Western Region (23 - 25 August 2023)
+title: PAST - Central & Western Region (23 - 25 August 2023)
 date: '2023-01-24T00:00:00Z'
 type: book # Do not modify.
+draft: true
 ---
 
 

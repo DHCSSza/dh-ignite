@@ -9,6 +9,7 @@ icon_pack: fas
 title: Western Cape (2023)
 date: '2023-01-24T00:00:00Z'
 type: book # Do not modify.
+draft: true
 ---
 
 {{% callout warning %}}

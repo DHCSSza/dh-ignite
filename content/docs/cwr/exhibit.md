@@ -1,10 +1,10 @@
 ---
 # Title, summary, and page position.
-linktitle: CWR - Exhibitor guidelines
+linktitle: PAST - CWR - Exhibitor guidelines
 weight: 3
 
 # Page metadata.
-title: CWR - Exhibitor guidelines
+title: PAST - CWR - Exhibitor guidelines
 date: '2022-07-01T00:00:00Z'
 type: book # Do not modify.
 ---

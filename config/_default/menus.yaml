@@ -49,11 +49,6 @@ main:
     weight: 10
     parent: "About"
 
-  - name: "Programme"
-    url: "#schedule"
-    weight: 20
-    parent: "About"
-
   - name: "Audience"
     url: "#who"
     weight: 30
@@ -64,10 +59,6 @@ main:
     weight: 40
     parent: "About"
 
-  - name: "Past events"
-    url: "docs/kzn/resources"
-    weight: 70
-    parent: "About"
 
   - name: "Resources"
     weight: 40
@@ -112,10 +103,7 @@ main:
     weight: 10
     parent: "Important information"
   
-  - name: "Central & Western Region"
-    url: "docs/cwr"
-    weight: 20
-    parent: "Important information"
+
 
 
 

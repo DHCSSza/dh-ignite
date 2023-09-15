@@ -1,6 +1,6 @@
 ---
 title: |
-  Eastern Cape Region - 2023 - date to be confirmed
+  Eastern Cape Region (27 Nov - 1 Dec 2023)
 
 event: DH-IGNITE - Eastern Cape region
 event_url: 
@@ -21,8 +21,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-30T09:00:00Z'
-date_end: '2023-12-15T17:00:00Z'
+date: '2023-11-27T09:00:00Z'
+date_end: '2023-12-01T17:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -60,11 +60,12 @@ projects:
 
 Are you affiliated with a public university in the Eastern Cape and interested to join us at DH-IGNITE Eastern Cape in 2023?
 
-[Please complete the online form](https://forms.gle/zNtY1sBWpN4pWaBR8) and we will send you more information when registrations for the Eastern Cape Region event open.
+ <em> DH-IGNITE Eastern Cape is offered in collaboration with the <a href= "https://dh2023.digitalhumanities.org.za/">Digital Humanities Association of Southern Africa Conference 2023</a></em> 
 
-{{< cta cta_text="Complete the online form" cta_link="https://forms.gle/zNtY1sBWpN4pWaBR8" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
+
+{{< cta cta_text="Learn more about DHASA" cta_link="https://dh2023.digitalhumanities.org.za/" cta_new_tab="true" cta_alt_text="Contact us" cta_alt_link="../../#contact" cta_alt_new_tab="false" >}}
 
 {{% callout note %}}
-More details will be published in the [DH-IGNITE Knowledge Centre - EC Region](../../docs/ec)
+More details will be published in the DH-IGNITE Knowledge Centre - EC Region in the coming weeks
 {{% /callout %}}
 

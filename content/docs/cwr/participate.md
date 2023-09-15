@@ -1,6 +1,6 @@
 ---
-title: CWR - How to participate
-linktitle: CWR - How to participate
+title: PAST - CWR - How to participate
+linktitle: PAST - CWR - How to participate
 type: book
 date: '2023-01-28T00:00:00+01:00'
 
