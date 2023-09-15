@@ -59,22 +59,21 @@ main:
     weight: 40
     parent: "About"
 
-
   - name: "Resources"
     weight: 40
 
   - name: "DH-IGNITE KZN"
-    url: "resources/kzn"
+    url: "resources/kzn/"
     weight: 10
     parent: "Resources"
 
   - name: "DH-IGNITE WC"
-    url: "resources/wc"
+    url: "resources/wc/"
     weight: 20
     parent: "Resources"
   
   - name: "DH-IGNITE C&WR"
-    url: "resources/cwr"
+    url: "resources/cwr/"
     weight: 30
     parent: "Resources"
 
