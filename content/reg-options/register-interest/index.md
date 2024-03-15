@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interested to know when DH-IGNITE is coming to you?"
-summary: "Registration/application for DH-IGNITE events in the Eastern Cape and the Northern Region are not yet open, but you can register your interest to participate and receive more information when it becomes available. If you missed DH-IGNITE KZN, WC, or Central & Western Regions and would like to be informed of future opportunities, please fill out the form and we can stay in touch."
+summary: "Complete our '_Registration of interest_' form and we'll be in touch when there's an event near you!"
 authors: []
 tags: []
 categories: []

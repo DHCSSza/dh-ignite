@@ -37,27 +37,8 @@
 main:
 
   - name: "Home"
-    url: "/"
+    url: "https://escalator.sadilar.org/"
     weight: 10
-
-  - name: "About"
-    url: "#about"
-    weight: 20
-
-  - name: "About DH-IGNITE"
-    url: "#about"
-    weight: 10
-    parent: "About"
-
-  - name: "Audience"
-    url: "#who"
-    weight: 30
-    parent: "About"
-
-  - name: "Upcoming events"
-    url: "#event"
-    weight: 40
-    parent: "About"
 
   - name: "Resources"
     weight: 40
@@ -77,15 +58,6 @@ main:
     weight: 30
     parent: "Resources"
 
-
-  # - name: "Speakers"
-  #   url: "#speakers"
-  #   weight: 40
-
-  # - name: "Workshops"
-  #   url: "#workshops"
-  #   weight: 50
-
   - name: "Contact"
     url: "#contact"
     weight: 60
@@ -94,13 +66,6 @@ main:
     url: "post"
     weight: 70
 
-  - name: "Important information"
-    weight: 80
-
-  - name: "General information"
-    url: "docs/"
-    weight: 10
-    parent: "Important information"
   
 
 
