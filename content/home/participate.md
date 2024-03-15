@@ -51,16 +51,12 @@ design:
 
 
 {{% callout note %}}
-__DH-IGNITE Eastern Cape will be held in conjunction with DHASA 2023.__
 
-<br>
 
-Please note anyone may register for DHASA 2023 as it is a regular academic conference. To register, please visit the <a href ="https://dh2023.digitalhumanities.org.za/">DHASA website</a>.
+We are migrating all DH-IGNITE information to the ESCALATOR website.
 
-<br>
+Please visit https://escalator.sadilar.org/dh-ignite for the latest news on DH-IGNITE-related events and opportunities.
 
-__SADiLaR will sponsor participation of selected nominees in liason with Deans from the relevant universities.__ 
 
-Participants will have to sign a <u>**no-show fee**</u> form confirming that they will be liable to refund SADiLaR for conference costs should they not attend the conference without valid and timely communication with the programme team.
 {{% /callout %}}
 
